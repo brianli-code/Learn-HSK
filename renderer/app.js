@@ -4,7 +4,7 @@ let score = 0
 let totalQuestions = 0
 
 async function loadHSKData() {
-  const resp = await fetch('./data/hsk3.json')
+  const resp = await fetch('./vocab/hsk3.json')
   console.log("Loading HSK data from fetch")
   if (!resp.ok) throw new Error(`Could not load HSK data: ${resp.status}`)
   return resp.json()
@@ -28,8 +28,22 @@ function startFlashcards() {
     card.onclick = () => {
       card.innerHTML = `
         <strong>${item.hanzi}</strong><br>
-        Mandarin: ${item.pinyin} – ${item.english}<br>
-        Cantonese: ${item.cantonese.hanzi} (${item.cantonese.jyutping})
+
+        <div class="definition-row">
+          <span>Mandarin: ${item.pinyin} – ${item.english}</span>
+          <button
+            class="audio-btn"
+            onclick="event.stopPropagation(); playAudio('${item.hanzi}')"
+          >🔊</button>
+        </div>
+
+        <div class="definition-row">
+          <span>Cantonese: ${item.cantonese.hanzi} (${item.cantonese.jyutping})</span>
+          <button
+            class="audio-btn"
+            onclick="event.stopPropagation(); playAudio('${item.cantonese.hanzi}')"
+          >🔊</button>
+        </div>
       `
       card.onclick = () => {
         currentIndex = (currentIndex + 1) % hskData.length
@@ -73,6 +87,15 @@ function checkAnswer(selected, correct) {
     <button id="retry">Try another</button>
   `
   document.getElementById('retry').onclick = startQuiz
+}
+
+async function playAudio(filename) {
+  const audio = new Audio(`./sounds/${filename}.mp3`);
+  try {
+    await audio.play();
+  } catch (err) {
+    console.error('🔊 Audio playback failed:', err);
+  }
 }
 
 // 2) wait for DOM + data, then wire up buttons
