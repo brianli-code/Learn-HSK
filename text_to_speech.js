@@ -29,7 +29,7 @@ async function quickStart() {
             voice: { languageCode: 'zh-CN', ssmlGender: 'NEUTRAL' },
             audioConfig: { audioEncoding: 'MP3' },
         });
-        await writeFile(mandoFilename, mandarinRes.audioContent, 'binary');
+        await writeFile(`renderer/sounds/${mandoFilename}`, mandarinRes.audioContent, 'binary');
         console.log(`Audio content written to file: ${mandoFilename}`)
 
         // generate the cantonese audio file
@@ -41,7 +41,7 @@ async function quickStart() {
             audioConfig: { audioEncoding: 'MP3' },
         });
 
-        await writeFile(cantoFilename, cantoRes.audioContent, 'binary');
+        await writeFile(`renderer/sounds/${cantoFilename}`, cantoRes.audioContent, 'binary');
         console.log(`Audio content written to file: ${cantoFilename}`)
         }
     }
