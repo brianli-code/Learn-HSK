@@ -81,9 +81,23 @@ function startQuiz() {
   const app = document.getElementById('app')
   app.innerHTML = `
     <div id="quiz">
-      ${item.hanzi} (${item.pinyin})<br>
-      Cantonese: ${item.cantonese.hanzi} (${item.cantonese.jyutping})
+      <div class="definition-row">
+        <span>${item.hanzi} – ${item.pinyin}</span>
+        <button
+          class="audio-btn"
+          onclick="event.stopPropagation(); playAudio('${item.hanzi}')"
+        >🔊</button>
+      </div>
+
+      <div class="definition-row">
+        <span>Cantonese: ${item.cantonese.hanzi} (${item.cantonese.jyutping})</span>
+        <button
+          class="audio-btn"
+          onclick="event.stopPropagation(); playAudio('${item.cantonese.hanzi}')"
+        >🔊</button>
+        </div>
     </div>
+
   ` + shuffled.map(opt => `
     <button class="quiz-option"
             onclick="checkAnswer('${opt}', '${item.english}')">
