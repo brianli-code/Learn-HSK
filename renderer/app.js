@@ -14,7 +14,6 @@ function applyTheme(theme) {
   const isDark = theme === 'dark';
   document.documentElement.classList.toggle('dark', isDark);
   const btn = document.getElementById('theme-toggle');
-  console.log(btn.textContent)
   btn.textContent = isDark ? '☀️ Light Mode' : '🌙 Dark Mode';
 }
 
@@ -118,7 +117,6 @@ async function playAudio(filename) {
 document.addEventListener('DOMContentLoaded', async () => {
   // 1) Apply saved theme
   const saved = localStorage.getItem('theme') || 'light';
-  console.log("saved theme: ", saved)
   applyTheme(saved);
 
   // 2) Wire theme-toggle button
