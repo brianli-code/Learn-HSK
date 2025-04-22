@@ -10,6 +10,22 @@ async function loadHSKData() {
   return resp.json()
 }
 
+function applyTheme(theme) {
+  const isDark = theme === 'dark';
+  document.documentElement.classList.toggle('dark', isDark);
+  const btn = document.getElementById('theme-toggle');
+  console.log(btn.textContent)
+  btn.textContent = isDark ? '☀️ Light Mode' : '🌙 Dark Mode';
+}
+
+/** Flip theme and persist choice */
+function toggleTheme() {
+  const isCurrentlyDark = document.documentElement.classList.contains('dark');
+  const next = isCurrentlyDark ? 'light' : 'dark';
+  applyTheme(next);
+  localStorage.setItem('theme', next);
+}
+
 function updateScore() {
   document.getElementById('score')
           .textContent = `Score: ${score} / ${totalQuestions}`
@@ -100,9 +116,19 @@ async function playAudio(filename) {
 
 // 2) wait for DOM + data, then wire up buttons
 document.addEventListener('DOMContentLoaded', async () => {
-  hskData = await loadHSKData()
+  // 1) Apply saved theme
+  const saved = localStorage.getItem('theme') || 'light';
+  console.log("saved theme: ", saved)
+  applyTheme(saved);
+
+  // 2) Wire theme-toggle button
+  document.getElementById('theme-toggle')
+          .addEventListener('click', toggleTheme);
+
+  // 3) Load data & wire up quiz/flashcard
+  hskData = await loadHSKData();
   document.getElementById('flashcard-btn')
-          .addEventListener('click', startFlashcards)
+          .addEventListener('click', startFlashcards);
   document.getElementById('quiz-btn')
-          .addEventListener('click', startQuiz)
-})
+          .addEventListener('click', startQuiz);
+});
