@@ -21,6 +21,9 @@ def get_canto(word):
     end = h3_str.find('<', start)
     hanzi = h3_str[start:end].strip()
     
+    # Correct parentheses
+    hanzi = hanzi.replace("〔", " (").replace("〕", ")")
+    
     # Get jyutping
     # Locate the correct <small> element that contains the jyutping
     small_tags = soup.find_all("small")
