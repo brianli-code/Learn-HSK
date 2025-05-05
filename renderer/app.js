@@ -165,7 +165,7 @@ function checkAnswer(selected, correct) {
 
   // keydown handler: on Enter → click the retry button
   function onEnter(e) {
-    if (e.key === 'Enter') {
+    if (e.key === 'Enter' || e.key === '5') {
       e.preventDefault()
       retryButton.click()
     }
