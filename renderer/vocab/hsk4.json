@@ -1,0 +1,5402 @@
+[
+    {
+      "hanzi": "爱情",
+      "pinyin": "ài qíng",
+      "english": "romance",
+      "cantonese": {
+        "jyutping": "oi3 cing4",
+        "hanzi": "愛情 (爱-)"
+      }
+    },
+    {
+      "hanzi": "安排",
+      "pinyin": "ān pái",
+      "english": "to arrange",
+      "cantonese": {
+        "jyutping": "on1 paai4",
+        "hanzi": "安排"
+      }
+    },
+    {
+      "hanzi": "安全",
+      "pinyin": "ān quán",
+      "english": "safe",
+      "cantonese": {
+        "jyutping": "on1 cyun4",
+        "hanzi": "安全"
+      }
+    },
+    {
+      "hanzi": "暗",
+      "pinyin": "àn",
+      "english": "to close (a door)",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "闇 (暗)"
+      }
+    },
+    {
+      "hanzi": "按时",
+      "pinyin": "àn shí",
+      "english": "on time",
+      "cantonese": {
+        "jyutping": "on3 si4",
+        "hanzi": "按時 (-时)"
+      }
+    },
+    {
+      "hanzi": "按照",
+      "pinyin": "àn zhào",
+      "english": "according to",
+      "cantonese": {
+        "jyutping": "on3 ziu3",
+        "hanzi": "按照"
+      }
+    },
+    {
+      "hanzi": "包括",
+      "pinyin": "bāo kuò",
+      "english": "to comprise",
+      "cantonese": {
+        "jyutping": "baau1 kut3",
+        "hanzi": "包括"
+      }
+    },
+    {
+      "hanzi": "保护",
+      "pinyin": "bǎo hù",
+      "english": "to protect",
+      "cantonese": {
+        "jyutping": "bou2 wu6",
+        "hanzi": "保護 (-护)"
+      }
+    },
+    {
+      "hanzi": "保证",
+      "pinyin": "bǎo zhèng",
+      "english": "guarantee",
+      "cantonese": {
+        "jyutping": "bou2 zing3",
+        "hanzi": "保證 (-证)"
+      }
+    },
+    {
+      "hanzi": "抱",
+      "pinyin": "bào",
+      "english": "to hold",
+      "cantonese": {
+        "jyutping": "pou5",
+        "hanzi": "抱"
+      }
+    },
+    {
+      "hanzi": "抱歉",
+      "pinyin": "bào qiàn",
+      "english": "to be sorry",
+      "cantonese": {
+        "jyutping": "pou5 hip3",
+        "hanzi": "抱歉"
+      }
+    },
+    {
+      "hanzi": "报道",
+      "pinyin": "bào dào",
+      "english": "report",
+      "cantonese": {
+        "jyutping": "bou3 dou6",
+        "hanzi": "報道 (报-)"
+      }
+    },
+    {
+      "hanzi": "报名",
+      "pinyin": "bào míng",
+      "english": "to sign up",
+      "cantonese": {
+        "jyutping": "bou3 meng2",
+        "hanzi": "報名 (报-)"
+      }
+    },
+    {
+      "hanzi": "倍",
+      "pinyin": "bèi",
+      "english": "(two",
+      "cantonese": {
+        "jyutping": "pui5",
+        "hanzi": "倍"
+      }
+    },
+    {
+      "hanzi": "本来",
+      "pinyin": "běn lái",
+      "english": "original",
+      "cantonese": {
+        "jyutping": "bun2 loi4",
+        "hanzi": "本來 (-来)"
+      }
+    },
+    {
+      "hanzi": "笨",
+      "pinyin": "bèn",
+      "english": "stupid",
+      "cantonese": {
+        "jyutping": "ban6",
+        "hanzi": "笨"
+      }
+    },
+    {
+      "hanzi": "笔记本",
+      "pinyin": "bǐ jì běn",
+      "english": "notebook",
+      "cantonese": {
+        "jyutping": "bat1 gei3 bun2",
+        "hanzi": "筆記本 (笔记-)"
+      }
+    },
+    {
+      "hanzi": "毕业",
+      "pinyin": "bì yè",
+      "english": "graduation",
+      "cantonese": {
+        "jyutping": "bat1 jip6",
+        "hanzi": "畢業 (毕业)"
+      }
+    },
+    {
+      "hanzi": "遍",
+      "pinyin": "biàn",
+      "english": "everywhere",
+      "cantonese": {
+        "jyutping": "pin3",
+        "hanzi": "遍"
+      }
+    },
+    {
+      "hanzi": "标准",
+      "pinyin": "biāo zhǔn",
+      "english": "(an official) standard",
+      "cantonese": {
+        "jyutping": "biu1 zeon2",
+        "hanzi": "標準 (标准)"
+      }
+    },
+    {
+      "hanzi": "表达",
+      "pinyin": "biǎo dá",
+      "english": "to voice (an opinion)",
+      "cantonese": {
+        "jyutping": "biu2 daat6",
+        "hanzi": "表達 (-达)"
+      }
+    },
+    {
+      "hanzi": "表格",
+      "pinyin": "biǎo gé",
+      "english": "form",
+      "cantonese": {
+        "jyutping": "biu2 gaak3",
+        "hanzi": "表格"
+      }
+    },
+    {
+      "hanzi": "表扬",
+      "pinyin": "biǎo yáng",
+      "english": "to praise",
+      "cantonese": {
+        "jyutping": "biu2 joeng4",
+        "hanzi": "表揚 (-扬)"
+      }
+    },
+    {
+      "hanzi": "饼干",
+      "pinyin": "bǐng gān",
+      "english": "biscuit",
+      "cantonese": {
+        "jyutping": "beng2 gon1",
+        "hanzi": "餅乾 (饼干)"
+      }
+    },
+    {
+      "hanzi": "并且",
+      "pinyin": "bìng qiě",
+      "english": "and",
+      "cantonese": {
+        "jyutping": "bing6 ce2",
+        "hanzi": "並且 (并-)"
+      }
+    },
+    {
+      "hanzi": "博士",
+      "pinyin": "bó shì",
+      "english": "doctor",
+      "cantonese": {
+        "jyutping": "bok3 si6",
+        "hanzi": "博士"
+      }
+    },
+    {
+      "hanzi": "不但",
+      "pinyin": "bù dàn",
+      "english": "not only (... but also...)",
+      "cantonese": {
+        "jyutping": "bat1 daan6",
+        "hanzi": "不但"
+      }
+    },
+    {
+      "hanzi": "不过",
+      "pinyin": "bù guò",
+      "english": "only",
+      "cantonese": {
+        "jyutping": "bat1 gwo3",
+        "hanzi": "不過 (-过)"
+      }
+    },
+    {
+      "hanzi": "不得不",
+      "pinyin": "bù dé bù",
+      "english": "have no choice or option but to",
+      "cantonese": {
+        "jyutping": "bat1 dak1 bat1",
+        "hanzi": "不得不"
+      }
+    },
+    {
+      "hanzi": "不管",
+      "pinyin": "bù guǎn",
+      "english": "no matter (what",
+      "cantonese": {
+        "jyutping": "bat1 gun2",
+        "hanzi": "不管"
+      }
+    },
+    {
+      "hanzi": "不仅",
+      "pinyin": "bù jǐn",
+      "english": "not only (this one)",
+      "cantonese": {
+        "jyutping": "bat1 gan2",
+        "hanzi": "不僅 (-仅)"
+      }
+    },
+    {
+      "hanzi": "部分",
+      "pinyin": "bù fèn",
+      "english": "part",
+      "cantonese": {
+        "jyutping": "bou6 fan6",
+        "hanzi": "部分"
+      }
+    },
+    {
+      "hanzi": "擦",
+      "pinyin": "cā",
+      "english": "to wipe",
+      "cantonese": {
+        "jyutping": "caat3",
+        "hanzi": "擦"
+      }
+    },
+    {
+      "hanzi": "猜",
+      "pinyin": "cāi",
+      "english": "to guess",
+      "cantonese": {
+        "jyutping": "caai1",
+        "hanzi": "猜"
+      }
+    },
+    {
+      "hanzi": "材料",
+      "pinyin": "cái liào",
+      "english": "material",
+      "cantonese": {
+        "jyutping": "coi4 liu2",
+        "hanzi": "材料"
+      }
+    },
+    {
+      "hanzi": "参观",
+      "pinyin": "cān guān",
+      "english": "to look around",
+      "cantonese": {
+        "jyutping": "caam1 gun1",
+        "hanzi": "參觀 (参观)"
+      }
+    },
+    {
+      "hanzi": "差不多",
+      "pinyin": "chà bu duō",
+      "english": "almost",
+      "cantonese": {
+        "jyutping": "caa1 bat1 do1",
+        "hanzi": "差不多"
+      }
+    },
+    {
+      "hanzi": "长城",
+      "pinyin": "Cháng chéng",
+      "english": "the Great Wall",
+      "cantonese": {
+        "jyutping": "coeng4 sing4",
+        "hanzi": "長城 (长-)"
+      }
+    },
+    {
+      "hanzi": "长江",
+      "pinyin": "Cháng Jiāng",
+      "english": "Yangtze River",
+      "cantonese": {
+        "jyutping": "coeng4 gong1",
+        "hanzi": "長江 (长-)"
+      }
+    },
+    {
+      "hanzi": "尝",
+      "pinyin": "cháng",
+      "english": "to taste",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "甞 (尝)"
+      }
+    },
+    {
+      "hanzi": "场",
+      "pinyin": "chǎng",
+      "english": "large place used for a specific purpose",
+      "cantonese": {
+        "jyutping": "coeng4",
+        "hanzi": "場 (场)"
+      }
+    },
+    {
+      "hanzi": "超过",
+      "pinyin": "chāo guò",
+      "english": "to surpass",
+      "cantonese": {
+        "jyutping": "ciu1 gwo3",
+        "hanzi": "超過 (-过)"
+      }
+    },
+    {
+      "hanzi": "吵",
+      "pinyin": "chǎo",
+      "english": "to quarrel",
+      "cantonese": {
+        "jyutping": "caau2",
+        "hanzi": "吵"
+      }
+    },
+    {
+      "hanzi": "乘坐",
+      "pinyin": "chéng zuò",
+      "english": "to ride (in a vehicle)",
+      "cantonese": {
+        "jyutping": "sing4 zo6",
+        "hanzi": "乘坐"
+      }
+    },
+    {
+      "hanzi": "成功",
+      "pinyin": "chéng gōng",
+      "english": "success",
+      "cantonese": {
+        "jyutping": "sing4 gung1",
+        "hanzi": "成功"
+      }
+    },
+    {
+      "hanzi": "成熟",
+      "pinyin": "chéng shú",
+      "english": "mature",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "成熟"
+      }
+    },
+    {
+      "hanzi": "成为",
+      "pinyin": "chéng wéi",
+      "english": "to become",
+      "cantonese": {
+        "jyutping": "sing4 wai4",
+        "hanzi": "成為 (-为)"
+      }
+    },
+    {
+      "hanzi": "诚实",
+      "pinyin": "chéng shí",
+      "english": "honest",
+      "cantonese": {
+        "jyutping": "sing4 sat6",
+        "hanzi": "誠實 (诚实)"
+      }
+    },
+    {
+      "hanzi": "吃惊",
+      "pinyin": "chī jīng",
+      "english": "to be startled",
+      "cantonese": {
+        "jyutping": "hek3 ging1",
+        "hanzi": "吃驚 (-惊)"
+      }
+    },
+    {
+      "hanzi": "重新",
+      "pinyin": "chóng xīn",
+      "english": "again",
+      "cantonese": {
+        "jyutping": "cung4 san1",
+        "hanzi": "重新"
+      }
+    },
+    {
+      "hanzi": "抽烟",
+      "pinyin": "chōu yān",
+      "english": "to smoke (a cigarette",
+      "cantonese": {
+        "jyutping": "cau1 jin1",
+        "hanzi": "抽煙 (-烟)"
+      }
+    },
+    {
+      "hanzi": "出差",
+      "pinyin": "chū chāi",
+      "english": "to go on an official or business trip",
+      "cantonese": {
+        "jyutping": "ceot1 caai1",
+        "hanzi": "出差"
+      }
+    },
+    {
+      "hanzi": "出发",
+      "pinyin": "chū fā",
+      "english": "to start out",
+      "cantonese": {
+        "jyutping": "ceot1 faat3",
+        "hanzi": "出發 (-发)"
+      }
+    },
+    {
+      "hanzi": "出生",
+      "pinyin": "chū shēng",
+      "english": "to be born",
+      "cantonese": {
+        "jyutping": "ceot1 saang1",
+        "hanzi": "出生"
+      }
+    },
+    {
+      "hanzi": "传真",
+      "pinyin": "chuán zhēn",
+      "english": "fax",
+      "cantonese": {
+        "jyutping": "cyun4 zan1",
+        "hanzi": "傳真 (传-)"
+      }
+    },
+    {
+      "hanzi": "窗户",
+      "pinyin": "chuāng hu",
+      "english": "window",
+      "cantonese": {
+        "jyutping": "coeng1 wu6",
+        "hanzi": "窗戶 (-户)"
+      }
+    },
+    {
+      "hanzi": "词典",
+      "pinyin": "cí diǎn",
+      "english": "dictionary (of Chinese compound words)",
+      "cantonese": {
+        "jyutping": "ci4 din2",
+        "hanzi": "詞典 (词-)"
+      }
+    },
+    {
+      "hanzi": "从来",
+      "pinyin": "cóng lái",
+      "english": "always",
+      "cantonese": {
+        "jyutping": "cung4 loi4",
+        "hanzi": "從來 (从来)"
+      }
+    },
+    {
+      "hanzi": "粗心",
+      "pinyin": "cū xīn",
+      "english": "careless",
+      "cantonese": {
+        "jyutping": "cou1 sam1",
+        "hanzi": "粗心"
+      }
+    },
+    {
+      "hanzi": "答案",
+      "pinyin": "dá àn",
+      "english": "answer",
+      "cantonese": {
+        "jyutping": "daap3 on3",
+        "hanzi": "答案"
+      }
+    },
+    {
+      "hanzi": "打扮",
+      "pinyin": "dǎ ban",
+      "english": "to decorate",
+      "cantonese": {
+        "jyutping": "daa2 baan6",
+        "hanzi": "打扮"
+      }
+    },
+    {
+      "hanzi": "打扰",
+      "pinyin": "dǎ rǎo",
+      "english": "to disturb",
+      "cantonese": {
+        "jyutping": "daa2 jiu5",
+        "hanzi": "打擾 (-扰)"
+      }
+    },
+    {
+      "hanzi": "打印",
+      "pinyin": "dǎ yìn",
+      "english": "to print",
+      "cantonese": {
+        "jyutping": "daa2 jan3",
+        "hanzi": "打印"
+      }
+    },
+    {
+      "hanzi": "打折",
+      "pinyin": "dǎ zhé",
+      "english": "to give a discount",
+      "cantonese": {
+        "jyutping": "daa2 zit3",
+        "hanzi": "打折"
+      }
+    },
+    {
+      "hanzi": "打针",
+      "pinyin": "dǎ zhēn",
+      "english": "to give or have an injection",
+      "cantonese": {
+        "jyutping": "daa2 zam1",
+        "hanzi": "打針 (-针)"
+      }
+    },
+    {
+      "hanzi": "大概",
+      "pinyin": "dà gài",
+      "english": "roughly",
+      "cantonese": {
+        "jyutping": "daai6 koi3",
+        "hanzi": "大概"
+      }
+    },
+    {
+      "hanzi": "大使馆",
+      "pinyin": "dà shǐ guǎn",
+      "english": "embassy",
+      "cantonese": {
+        "jyutping": "daai6 si3 gun2",
+        "hanzi": "大使館 (--馆)"
+      }
+    },
+    {
+      "hanzi": "大约",
+      "pinyin": "dà yuē",
+      "english": "approximately",
+      "cantonese": {
+        "jyutping": "daai6 joek3",
+        "hanzi": "大約 (-约)"
+      }
+    },
+    {
+      "hanzi": "戴",
+      "pinyin": "dài",
+      "english": "to put on or wear (glasses",
+      "cantonese": {
+        "jyutping": "daai3",
+        "hanzi": "戴"
+      }
+    },
+    {
+      "hanzi": "代表",
+      "pinyin": "dài biǎo",
+      "english": "representative",
+      "cantonese": {
+        "jyutping": "doi6 biu2",
+        "hanzi": "代表"
+      }
+    },
+    {
+      "hanzi": "代替",
+      "pinyin": "dài tì",
+      "english": "instead",
+      "cantonese": {
+        "jyutping": "doi6 tai3",
+        "hanzi": "代替"
+      }
+    },
+    {
+      "hanzi": "大夫",
+      "pinyin": "dài fu",
+      "english": "doctor",
+      "cantonese": {
+        "jyutping": "daai6 fu1",
+        "hanzi": "大夫"
+      }
+    },
+    {
+      "hanzi": "当",
+      "pinyin": "dāng",
+      "english": "to be",
+      "cantonese": {
+        "jyutping": "dong1",
+        "hanzi": "當 (当)"
+      }
+    },
+    {
+      "hanzi": "当地",
+      "pinyin": "dāng dì",
+      "english": "local",
+      "cantonese": {
+        "jyutping": "dong1 dei6",
+        "hanzi": "當地 (当-)"
+      }
+    },
+    {
+      "hanzi": "当时",
+      "pinyin": "dāng shí",
+      "english": "then",
+      "cantonese": {
+        "jyutping": "dong1 si4",
+        "hanzi": "當時 (当时)"
+      }
+    },
+    {
+      "hanzi": "刀",
+      "pinyin": "dāo",
+      "english": "knife",
+      "cantonese": {
+        "jyutping": "dou1",
+        "hanzi": "刀"
+      }
+    },
+    {
+      "hanzi": "导游",
+      "pinyin": "dǎo yóu",
+      "english": "tour guide",
+      "cantonese": {
+        "jyutping": "dou6 jau4",
+        "hanzi": "導遊 (导游)"
+      }
+    },
+    {
+      "hanzi": "到处",
+      "pinyin": "dào chù",
+      "english": "everywhere",
+      "cantonese": {
+        "jyutping": "dou3 cyu3",
+        "hanzi": "到處 (-处)"
+      }
+    },
+    {
+      "hanzi": "到底",
+      "pinyin": "dào dǐ",
+      "english": "finally",
+      "cantonese": {
+        "jyutping": "dou3 dai2",
+        "hanzi": "到底"
+      }
+    },
+    {
+      "hanzi": "道歉",
+      "pinyin": "dào qiàn",
+      "english": "to apologize",
+      "cantonese": {
+        "jyutping": "dou6 hip3",
+        "hanzi": "道歉"
+      }
+    },
+    {
+      "hanzi": "得意",
+      "pinyin": "dé yì",
+      "english": "proud of oneself",
+      "cantonese": {
+        "jyutping": "dak1 ji3",
+        "hanzi": "得意"
+      }
+    },
+    {
+      "hanzi": "等",
+      "pinyin": "děng",
+      "english": "class",
+      "cantonese": {
+        "jyutping": "dang2",
+        "hanzi": "等"
+      }
+    },
+    {
+      "hanzi": "等",
+      "pinyin": "děng",
+      "english": "class",
+      "cantonese": {
+        "jyutping": "dang2",
+        "hanzi": "等"
+      }
+    },
+    {
+      "hanzi": "底",
+      "pinyin": "dǐ",
+      "english": "background",
+      "cantonese": {
+        "jyutping": "dai2",
+        "hanzi": "底"
+      }
+    },
+    {
+      "hanzi": "地球",
+      "pinyin": "dì qiú",
+      "english": "the Earth",
+      "cantonese": {
+        "jyutping": "dei6 kau4",
+        "hanzi": "地球"
+      }
+    },
+    {
+      "hanzi": "地址",
+      "pinyin": "dì zhǐ",
+      "english": "address",
+      "cantonese": {
+        "jyutping": "dei6 zi2",
+        "hanzi": "地址"
+      }
+    },
+    {
+      "hanzi": "掉",
+      "pinyin": "diào",
+      "english": "to fall",
+      "cantonese": {
+        "jyutping": "diu6",
+        "hanzi": "掉"
+      }
+    },
+    {
+      "hanzi": "调查",
+      "pinyin": "diào chá",
+      "english": "investigation",
+      "cantonese": {
+        "jyutping": "diu6 caa4",
+        "hanzi": "調查 (调-)"
+      }
+    },
+    {
+      "hanzi": "丢",
+      "pinyin": "diū",
+      "english": "to lose",
+      "cantonese": {
+        "jyutping": "diu1",
+        "hanzi": "丟 (丢)"
+      }
+    },
+    {
+      "hanzi": "动作",
+      "pinyin": "dòng zuò",
+      "english": "movement",
+      "cantonese": {
+        "jyutping": "dung6 zok3",
+        "hanzi": "動作 (动-)"
+      }
+    },
+    {
+      "hanzi": "堵车",
+      "pinyin": "dǔ chē",
+      "english": "traffic jam",
+      "cantonese": {
+        "jyutping": "dou2 ce1",
+        "hanzi": "堵車 (-车)"
+      }
+    },
+    {
+      "hanzi": "肚子",
+      "pinyin": "dù zi",
+      "english": "belly",
+      "cantonese": {
+        "jyutping": "tou5 zi2",
+        "hanzi": "肚子"
+      }
+    },
+    {
+      "hanzi": "断",
+      "pinyin": "duàn",
+      "english": "to break",
+      "cantonese": {
+        "jyutping": "tyun5",
+        "hanzi": "斷 (断)"
+      }
+    },
+    {
+      "hanzi": "对",
+      "pinyin": "duì",
+      "english": "couple",
+      "cantonese": {
+        "jyutping": "deoi3",
+        "hanzi": "對 (对)"
+      }
+    },
+    {
+      "hanzi": "对",
+      "pinyin": "duì",
+      "english": "couple",
+      "cantonese": {
+        "jyutping": "deoi3",
+        "hanzi": "對 (对)"
+      }
+    },
+    {
+      "hanzi": "对话",
+      "pinyin": "duì huà",
+      "english": "dialog",
+      "cantonese": {
+        "jyutping": "deoi3 waa6",
+        "hanzi": "對話 (对话)"
+      }
+    },
+    {
+      "hanzi": "对面",
+      "pinyin": "duì miàn",
+      "english": "(sitting) opposite",
+      "cantonese": {
+        "jyutping": "deoi3 min6",
+        "hanzi": "對面 (对-)"
+      }
+    },
+    {
+      "hanzi": "顿",
+      "pinyin": "dùn",
+      "english": "to stop",
+      "cantonese": {
+        "jyutping": "deon6",
+        "hanzi": "頓 (顿)"
+      }
+    },
+    {
+      "hanzi": "朵",
+      "pinyin": "duǒ",
+      "english": "flower",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "朶 (朵)"
+      }
+    },
+    {
+      "hanzi": "而",
+      "pinyin": "ér",
+      "english": "and",
+      "cantonese": {
+        "jyutping": "ji4",
+        "hanzi": "而"
+      }
+    },
+    {
+      "hanzi": "儿童",
+      "pinyin": "ér tóng",
+      "english": "child",
+      "cantonese": {
+        "jyutping": "ji4 tung4",
+        "hanzi": "兒童 (儿-)"
+      }
+    },
+    {
+      "hanzi": "发",
+      "pinyin": "fā",
+      "english": "to send out",
+      "cantonese": {
+        "jyutping": "faat3",
+        "hanzi": "發 (发)"
+      }
+    },
+    {
+      "hanzi": "发生",
+      "pinyin": "fā shēng",
+      "english": "to happen",
+      "cantonese": {
+        "jyutping": "faat3 sang1",
+        "hanzi": "發生 (发-)"
+      }
+    },
+    {
+      "hanzi": "发展",
+      "pinyin": "fā zhǎn",
+      "english": "development",
+      "cantonese": {
+        "jyutping": "faat3 zin2",
+        "hanzi": "發展 (发-)"
+      }
+    },
+    {
+      "hanzi": "法律",
+      "pinyin": "fǎ lǜ",
+      "english": "law",
+      "cantonese": {
+        "jyutping": "faat3 leot6",
+        "hanzi": "法律"
+      }
+    },
+    {
+      "hanzi": "翻译",
+      "pinyin": "fān yì",
+      "english": "to translate",
+      "cantonese": {
+        "jyutping": "faan1 jik6",
+        "hanzi": "翻譯 (-译)"
+      }
+    },
+    {
+      "hanzi": "烦恼",
+      "pinyin": "fán nǎo",
+      "english": "to be worried",
+      "cantonese": {
+        "jyutping": "faan4 nou5",
+        "hanzi": "煩惱 (烦恼)"
+      }
+    },
+    {
+      "hanzi": "反对",
+      "pinyin": "fǎn duì",
+      "english": "to fight against",
+      "cantonese": {
+        "jyutping": "faan2 deoi3",
+        "hanzi": "反對 (-对)"
+      }
+    },
+    {
+      "hanzi": "反映",
+      "pinyin": "fǎn yìng",
+      "english": "to mirror",
+      "cantonese": {
+        "jyutping": "faan2 jing2",
+        "hanzi": "反映"
+      }
+    },
+    {
+      "hanzi": "范围",
+      "pinyin": "fàn wéi",
+      "english": "range",
+      "cantonese": {
+        "jyutping": "faan6 wai4",
+        "hanzi": "範圍 (范围)"
+      }
+    },
+    {
+      "hanzi": "方法",
+      "pinyin": "fāng fǎ",
+      "english": "method",
+      "cantonese": {
+        "jyutping": "fong1 faat3",
+        "hanzi": "方法"
+      }
+    },
+    {
+      "hanzi": "方面",
+      "pinyin": "fāng miàn",
+      "english": "respect",
+      "cantonese": {
+        "jyutping": "fong1 min6",
+        "hanzi": "方面"
+      }
+    },
+    {
+      "hanzi": "方向",
+      "pinyin": "fāng xiàng",
+      "english": "direction",
+      "cantonese": {
+        "jyutping": "fong1 hoeng3",
+        "hanzi": "方向"
+      }
+    },
+    {
+      "hanzi": "访问",
+      "pinyin": "fǎng wèn",
+      "english": "to visit",
+      "cantonese": {
+        "jyutping": "fong2 man6",
+        "hanzi": "訪問 (访问)"
+      }
+    },
+    {
+      "hanzi": "放弃",
+      "pinyin": "fàng qì",
+      "english": "to renounce",
+      "cantonese": {
+        "jyutping": "fong3 hei3",
+        "hanzi": "放棄 (-弃)"
+      }
+    },
+    {
+      "hanzi": "分之",
+      "pinyin": "fēn zhī",
+      "english": "(indicating a fraction)",
+      "cantonese": {
+        "jyutping": "fan6 zi1",
+        "hanzi": "分之"
+      }
+    },
+    {
+      "hanzi": "份",
+      "pinyin": "fèn",
+      "english": "classifier for gifts",
+      "cantonese": {
+        "jyutping": "fan6",
+        "hanzi": "份"
+      }
+    },
+    {
+      "hanzi": "风景",
+      "pinyin": "fēng jǐng",
+      "english": "scenery",
+      "cantonese": {
+        "jyutping": "fung1 ging2",
+        "hanzi": "風景 (风-)"
+      }
+    },
+    {
+      "hanzi": "丰富",
+      "pinyin": "fēng fù",
+      "english": "to enrich",
+      "cantonese": {
+        "jyutping": "fung1 fu3",
+        "hanzi": "豐富 (丰-)"
+      }
+    },
+    {
+      "hanzi": "否则",
+      "pinyin": "fǒu zé",
+      "english": "if not",
+      "cantonese": {
+        "jyutping": "fau2 zak1",
+        "hanzi": "否則 (-则)"
+      }
+    },
+    {
+      "hanzi": "符合",
+      "pinyin": "fú hé",
+      "english": "in keeping with",
+      "cantonese": {
+        "jyutping": "fu4 hap6",
+        "hanzi": "符合"
+      }
+    },
+    {
+      "hanzi": "富",
+      "pinyin": "fù",
+      "english": "rich",
+      "cantonese": {
+        "jyutping": "fu3",
+        "hanzi": "富"
+      }
+    },
+    {
+      "hanzi": "负责",
+      "pinyin": "fù zé",
+      "english": "to be in charge of",
+      "cantonese": {
+        "jyutping": "fu6 zaak3",
+        "hanzi": "負責 (负责)"
+      }
+    },
+    {
+      "hanzi": "复印",
+      "pinyin": "fù yìn",
+      "english": "to photocopy",
+      "cantonese": {
+        "jyutping": "fuk1 jan3",
+        "hanzi": "複印 (复-)"
+      }
+    },
+    {
+      "hanzi": "复杂",
+      "pinyin": "fù zá",
+      "english": "complicated",
+      "cantonese": {
+        "jyutping": "fuk1 zaap6",
+        "hanzi": "複雜 (复杂)"
+      }
+    },
+    {
+      "hanzi": "父亲",
+      "pinyin": "fù qīn",
+      "english": "father",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "父親 (-亲)"
+      }
+    },
+    {
+      "hanzi": "改变",
+      "pinyin": "gǎi biàn",
+      "english": "to change",
+      "cantonese": {
+        "jyutping": "goi2 bin3",
+        "hanzi": "改變 (-变)"
+      }
+    },
+    {
+      "hanzi": "干杯",
+      "pinyin": "gān bēi",
+      "english": "to drink a toast",
+      "cantonese": {
+        "jyutping": "gon1 bui1",
+        "hanzi": "乾杯 (干-)"
+      }
+    },
+    {
+      "hanzi": "干燥",
+      "pinyin": "gān zào",
+      "english": "to dry (of weather",
+      "cantonese": {
+        "jyutping": "gon1 cou3",
+        "hanzi": "乾燥 (干-)"
+      }
+    },
+    {
+      "hanzi": "感动",
+      "pinyin": "gǎn dòng",
+      "english": "to move (sb)",
+      "cantonese": {
+        "jyutping": "gam2 dung6",
+        "hanzi": "感動 (-动)"
+      }
+    },
+    {
+      "hanzi": "感觉",
+      "pinyin": "gǎn jué",
+      "english": "to feel",
+      "cantonese": {
+        "jyutping": "gam2 gok3",
+        "hanzi": "感覺 (-觉)"
+      }
+    },
+    {
+      "hanzi": "感情",
+      "pinyin": "gǎn qíng",
+      "english": "feeling",
+      "cantonese": {
+        "jyutping": "gam2 cing4",
+        "hanzi": "感情"
+      }
+    },
+    {
+      "hanzi": "感谢",
+      "pinyin": "gǎn xiè",
+      "english": "(express) thanks",
+      "cantonese": {
+        "jyutping": "gam2 ze6",
+        "hanzi": "感謝 (-谢)"
+      }
+    },
+    {
+      "hanzi": "干",
+      "pinyin": "gàn",
+      "english": "tree trunk",
+      "cantonese": {
+        "jyutping": "gon1",
+        "hanzi": "乾 (干)"
+      }
+    },
+    {
+      "hanzi": "刚刚",
+      "pinyin": "gāng gang",
+      "english": "just recently",
+      "cantonese": {
+        "jyutping": "gong1 gong1",
+        "hanzi": "剛剛 (刚刚)"
+      }
+    },
+    {
+      "hanzi": "高级",
+      "pinyin": "gāo jí",
+      "english": "high level",
+      "cantonese": {
+        "jyutping": "gou1 kap1",
+        "hanzi": "高級 (-级)"
+      }
+    },
+    {
+      "hanzi": "个子",
+      "pinyin": "gè zi",
+      "english": "height",
+      "cantonese": {
+        "jyutping": "go3 zi2",
+        "hanzi": "個子 (个-)"
+      }
+    },
+    {
+      "hanzi": "各",
+      "pinyin": "gè",
+      "english": "each",
+      "cantonese": {
+        "jyutping": "gok3",
+        "hanzi": "各"
+      }
+    },
+    {
+      "hanzi": "公里",
+      "pinyin": "gōng lǐ",
+      "english": "kilometer",
+      "cantonese": {
+        "jyutping": "gung1 lei5",
+        "hanzi": "公里"
+      }
+    },
+    {
+      "hanzi": "工具",
+      "pinyin": "gōng jù",
+      "english": "tool",
+      "cantonese": {
+        "jyutping": "gung1 geoi6",
+        "hanzi": "工具"
+      }
+    },
+    {
+      "hanzi": "工资",
+      "pinyin": "gōng zī",
+      "english": "wages",
+      "cantonese": {
+        "jyutping": "gung1 zi1",
+        "hanzi": "工資 (-资)"
+      }
+    },
+    {
+      "hanzi": "共同",
+      "pinyin": "gòng tóng",
+      "english": "common",
+      "cantonese": {
+        "jyutping": "gung6 tung4",
+        "hanzi": "共同"
+      }
+    },
+    {
+      "hanzi": "够",
+      "pinyin": "gòu",
+      "english": "to reach",
+      "cantonese": {
+        "jyutping": "gau3",
+        "hanzi": "夠 (够)"
+      }
+    },
+    {
+      "hanzi": "购物",
+      "pinyin": "gòu wù",
+      "english": "shopping",
+      "cantonese": {
+        "jyutping": "kau3 mat6",
+        "hanzi": "購物 (购-)"
+      }
+    },
+    {
+      "hanzi": "孤单",
+      "pinyin": "gū dān",
+      "english": "lone",
+      "cantonese": {
+        "jyutping": "gu1 daan1",
+        "hanzi": "孤單 (-单)"
+      }
+    },
+    {
+      "hanzi": "估计",
+      "pinyin": "gū jì",
+      "english": "to estimate",
+      "cantonese": {
+        "jyutping": "gu2 gai3",
+        "hanzi": "估計 (-计)"
+      }
+    },
+    {
+      "hanzi": "鼓励",
+      "pinyin": "gǔ lì",
+      "english": "to encourage",
+      "cantonese": {
+        "jyutping": "gu2 lai6",
+        "hanzi": "鼓勵 (-励)"
+      }
+    },
+    {
+      "hanzi": "鼓掌",
+      "pinyin": "gǔ zhǎng",
+      "english": "to applaud",
+      "cantonese": {
+        "jyutping": "gu2 zoeng2",
+        "hanzi": "鼓掌"
+      }
+    },
+    {
+      "hanzi": "顾客",
+      "pinyin": "gù kè",
+      "english": "client",
+      "cantonese": {
+        "jyutping": "gu3 haak3",
+        "hanzi": "顧客 (顾-)"
+      }
+    },
+    {
+      "hanzi": "故意",
+      "pinyin": "gù yì",
+      "english": "deliberately",
+      "cantonese": {
+        "jyutping": "gu3 ji3",
+        "hanzi": "故意"
+      }
+    },
+    {
+      "hanzi": "挂",
+      "pinyin": "guà",
+      "english": "to hang or suspend (from a hook etc)",
+      "cantonese": {
+        "jyutping": "gwaa3",
+        "hanzi": "掛 (挂)"
+      }
+    },
+    {
+      "hanzi": "关键",
+      "pinyin": "guān jiàn",
+      "english": "crucial point",
+      "cantonese": {
+        "jyutping": "gwaan1 gin6",
+        "hanzi": "關鍵 (关键)"
+      }
+    },
+    {
+      "hanzi": "观众",
+      "pinyin": "guān zhòng",
+      "english": "spectators",
+      "cantonese": {
+        "jyutping": "gun1 zung3",
+        "hanzi": "觀眾 (观众)"
+      }
+    },
+    {
+      "hanzi": "管理",
+      "pinyin": "guǎn lǐ",
+      "english": "to supervise",
+      "cantonese": {
+        "jyutping": "gun2 lei5",
+        "hanzi": "管理"
+      }
+    },
+    {
+      "hanzi": "光",
+      "pinyin": "guāng",
+      "english": "light",
+      "cantonese": {
+        "jyutping": "gwong1",
+        "hanzi": "光"
+      }
+    },
+    {
+      "hanzi": "广播",
+      "pinyin": "guǎng bō",
+      "english": "broadcast",
+      "cantonese": {
+        "jyutping": "gwong2 bo3",
+        "hanzi": "廣播 (广-)"
+      }
+    },
+    {
+      "hanzi": "广告",
+      "pinyin": "guǎng gào",
+      "english": "to advertise",
+      "cantonese": {
+        "jyutping": "gwong2 gou3",
+        "hanzi": "廣告 (广-)"
+      }
+    },
+    {
+      "hanzi": "逛",
+      "pinyin": "guàng",
+      "english": "to stroll",
+      "cantonese": {
+        "jyutping": "kwaang3",
+        "hanzi": "逛"
+      }
+    },
+    {
+      "hanzi": "规定",
+      "pinyin": "guī dìng",
+      "english": "provision",
+      "cantonese": {
+        "jyutping": "kwai1 ding6",
+        "hanzi": "規定 (规-)"
+      }
+    },
+    {
+      "hanzi": "国际",
+      "pinyin": "guó jì",
+      "english": "international",
+      "cantonese": {
+        "jyutping": "gwok3 zai3",
+        "hanzi": "國際 (国际)"
+      }
+    },
+    {
+      "hanzi": "果然",
+      "pinyin": "guǒ rán",
+      "english": "really",
+      "cantonese": {
+        "jyutping": "gwo2 jin4",
+        "hanzi": "果然"
+      }
+    },
+    {
+      "hanzi": "过",
+      "pinyin": "guò",
+      "english": "(experienced action marker)",
+      "cantonese": {
+        "jyutping": "gwo3",
+        "hanzi": "過 (过)"
+      }
+    },
+    {
+      "hanzi": "过",
+      "pinyin": "guò",
+      "english": "(experienced action marker)",
+      "cantonese": {
+        "jyutping": "gwo3",
+        "hanzi": "過 (过)"
+      }
+    },
+    {
+      "hanzi": "过程",
+      "pinyin": "guò chéng",
+      "english": "course of events",
+      "cantonese": {
+        "jyutping": "gwo3 cing4",
+        "hanzi": "過程 (过-)"
+      }
+    },
+    {
+      "hanzi": "海洋",
+      "pinyin": "hǎi yáng",
+      "english": "ocean",
+      "cantonese": {
+        "jyutping": "hoi2 joeng4",
+        "hanzi": "海洋"
+      }
+    },
+    {
+      "hanzi": "害羞",
+      "pinyin": "hài xiū",
+      "english": "shy",
+      "cantonese": {
+        "jyutping": "hoi6 sau1",
+        "hanzi": "害羞"
+      }
+    },
+    {
+      "hanzi": "寒假",
+      "pinyin": "hán jià",
+      "english": "winter vacation",
+      "cantonese": {
+        "jyutping": "hon4 gaa3",
+        "hanzi": "寒假"
+      }
+    },
+    {
+      "hanzi": "汗",
+      "pinyin": "hàn",
+      "english": "perspiration",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "汗"
+      }
+    },
+    {
+      "hanzi": "航班",
+      "pinyin": "háng bān",
+      "english": "scheduled flight",
+      "cantonese": {
+        "jyutping": "hong4 baan1",
+        "hanzi": "航班"
+      }
+    },
+    {
+      "hanzi": "好处",
+      "pinyin": "hǎo chu",
+      "english": "benefit",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "好處 (-处)"
+      }
+    },
+    {
+      "hanzi": "好像",
+      "pinyin": "hǎo xiàng",
+      "english": "as if",
+      "cantonese": {
+        "jyutping": "hou2 zoeng6",
+        "hanzi": "好像"
+      }
+    },
+    {
+      "hanzi": "号码",
+      "pinyin": "hào mǎ",
+      "english": "number",
+      "cantonese": {
+        "jyutping": "hou6 maa5",
+        "hanzi": "號碼 (号码)"
+      }
+    },
+    {
+      "hanzi": "合格",
+      "pinyin": "hé gé",
+      "english": "qualified",
+      "cantonese": {
+        "jyutping": "hap6 gaak3",
+        "hanzi": "合格"
+      }
+    },
+    {
+      "hanzi": "合适",
+      "pinyin": "hé shì",
+      "english": "suitable",
+      "cantonese": {
+        "jyutping": "hap6 sik1",
+        "hanzi": "合適 (-适)"
+      }
+    },
+    {
+      "hanzi": "盒子",
+      "pinyin": "hé zi",
+      "english": "case",
+      "cantonese": {
+        "jyutping": "hap6 zi2",
+        "hanzi": "盒子"
+      }
+    },
+    {
+      "hanzi": "猴子",
+      "pinyin": "hóu zi",
+      "english": "monkey",
+      "cantonese": {
+        "jyutping": "hau4 zi2",
+        "hanzi": "猴子"
+      }
+    },
+    {
+      "hanzi": "厚",
+      "pinyin": "hòu",
+      "english": "thick",
+      "cantonese": {
+        "jyutping": "hau5 dap6 dap6",
+        "hanzi": "厚"
+      }
+    },
+    {
+      "hanzi": "后悔",
+      "pinyin": "hòu huǐ",
+      "english": "to regret",
+      "cantonese": {
+        "jyutping": "hau6 fui3",
+        "hanzi": "後悔 (后-)"
+      }
+    },
+    {
+      "hanzi": "后来",
+      "pinyin": "hòu lái",
+      "english": "afterwards",
+      "cantonese": {
+        "jyutping": "hau6 loi4",
+        "hanzi": "後來 (后来)"
+      }
+    },
+    {
+      "hanzi": "忽然",
+      "pinyin": "hū rán",
+      "english": "suddenly",
+      "cantonese": {
+        "jyutping": "fat1 jin4",
+        "hanzi": "忽然"
+      }
+    },
+    {
+      "hanzi": "互相",
+      "pinyin": "hù xiāng",
+      "english": "each other",
+      "cantonese": {
+        "jyutping": "wu6 soeng1",
+        "hanzi": "互相"
+      }
+    },
+    {
+      "hanzi": "护士",
+      "pinyin": "hù shi",
+      "english": "nurse",
+      "cantonese": {
+        "jyutping": "wu6 si6",
+        "hanzi": "護士 (护-)"
+      }
+    },
+    {
+      "hanzi": "怀疑",
+      "pinyin": "huái yí",
+      "english": "to doubt",
+      "cantonese": {
+        "jyutping": "waai4 ji4",
+        "hanzi": "懷疑 (怀-)"
+      }
+    },
+    {
+      "hanzi": "回忆",
+      "pinyin": "huí yì",
+      "english": "to recall",
+      "cantonese": {
+        "jyutping": "wui4 jik1",
+        "hanzi": "回憶 (-忆)"
+      }
+    },
+    {
+      "hanzi": "活动",
+      "pinyin": "huó dòng",
+      "english": "to exercise",
+      "cantonese": {
+        "jyutping": "wut6 dung6",
+        "hanzi": "活動 (-动)"
+      }
+    },
+    {
+      "hanzi": "活泼",
+      "pinyin": "huó po",
+      "english": "lively",
+      "cantonese": {
+        "jyutping": "wut6 put3",
+        "hanzi": "活潑 (-泼)"
+      }
+    },
+    {
+      "hanzi": "火",
+      "pinyin": "huǒ",
+      "english": "fire",
+      "cantonese": {
+        "jyutping": "fo2",
+        "hanzi": "火"
+      }
+    },
+    {
+      "hanzi": "获得",
+      "pinyin": "huò dé",
+      "english": "to obtain",
+      "cantonese": {
+        "jyutping": "wok6 dak1",
+        "hanzi": "獲得 (获-)"
+      }
+    },
+    {
+      "hanzi": "基础",
+      "pinyin": "jī chǔ",
+      "english": "base",
+      "cantonese": {
+        "jyutping": "gei1 co2",
+        "hanzi": "基礎 (-础)"
+      }
+    },
+    {
+      "hanzi": "激动",
+      "pinyin": "jī dòng",
+      "english": "to excite",
+      "cantonese": {
+        "jyutping": "gik1 dung6",
+        "hanzi": "激動 (-动)"
+      }
+    },
+    {
+      "hanzi": "积极",
+      "pinyin": "jī jí",
+      "english": "active",
+      "cantonese": {
+        "jyutping": "zik1 gik6",
+        "hanzi": "積極 (积极)"
+      }
+    },
+    {
+      "hanzi": "积累",
+      "pinyin": "jī lěi",
+      "english": "to accumulate",
+      "cantonese": {
+        "jyutping": "zik1 leoi5",
+        "hanzi": "積累 (积-)"
+      }
+    },
+    {
+      "hanzi": "极其",
+      "pinyin": "jí qí",
+      "english": "extremely",
+      "cantonese": {
+        "jyutping": "gik6 kei4",
+        "hanzi": "極其 (极-)"
+      }
+    },
+    {
+      "hanzi": "即使",
+      "pinyin": "jí shǐ",
+      "english": "even if",
+      "cantonese": {
+        "jyutping": "zik1 si2",
+        "hanzi": "即使"
+      }
+    },
+    {
+      "hanzi": "及时",
+      "pinyin": "jí shí",
+      "english": "in time",
+      "cantonese": {
+        "jyutping": "kap6 si4",
+        "hanzi": "及時 (-时)"
+      }
+    },
+    {
+      "hanzi": "集合",
+      "pinyin": "jí hé",
+      "english": "to gather",
+      "cantonese": {
+        "jyutping": "zaap6 hap6",
+        "hanzi": "集合"
+      }
+    },
+    {
+      "hanzi": "寄",
+      "pinyin": "jì",
+      "english": "to live (in a house)",
+      "cantonese": {
+        "jyutping": "gei3",
+        "hanzi": "寄"
+      }
+    },
+    {
+      "hanzi": "继续",
+      "pinyin": "jì xù",
+      "english": "to continue",
+      "cantonese": {
+        "jyutping": "gai3 zuk6",
+        "hanzi": "繼續 (继续)"
+      }
+    },
+    {
+      "hanzi": "记者",
+      "pinyin": "jì zhě",
+      "english": "reporter",
+      "cantonese": {
+        "jyutping": "gei3 ze2",
+        "hanzi": "記者 (记-)"
+      }
+    },
+    {
+      "hanzi": "计划",
+      "pinyin": "jì huà",
+      "english": "plan",
+      "cantonese": {
+        "jyutping": "gai3 waak6",
+        "hanzi": "計劃 (计划)"
+      }
+    },
+    {
+      "hanzi": "技术",
+      "pinyin": "jì shù",
+      "english": "technology",
+      "cantonese": {
+        "jyutping": "gei6 seot6",
+        "hanzi": "技術 (-术)"
+      }
+    },
+    {
+      "hanzi": "既然",
+      "pinyin": "jì rán",
+      "english": "since",
+      "cantonese": {
+        "jyutping": "gei3 jin4",
+        "hanzi": "既然"
+      }
+    },
+    {
+      "hanzi": "家具",
+      "pinyin": "jiā jù",
+      "english": "furniture",
+      "cantonese": {
+        "jyutping": "gaa1 geoi6",
+        "hanzi": "家具"
+      }
+    },
+    {
+      "hanzi": "加班",
+      "pinyin": "jiā bān",
+      "english": "to work overtime",
+      "cantonese": {
+        "jyutping": "gaa1 baan1",
+        "hanzi": "加班"
+      }
+    },
+    {
+      "hanzi": "加油站",
+      "pinyin": "jiā yóu zhàn",
+      "english": "gas station",
+      "cantonese": {
+        "jyutping": "gaa1 jau4 zaam6",
+        "hanzi": "加油站"
+      }
+    },
+    {
+      "hanzi": "假",
+      "pinyin": "jiǎ",
+      "english": "fake",
+      "cantonese": {
+        "jyutping": "gaa2",
+        "hanzi": "假"
+      }
+    },
+    {
+      "hanzi": "价格",
+      "pinyin": "jià gé",
+      "english": "price",
+      "cantonese": {
+        "jyutping": "gaa3 gaak3",
+        "hanzi": "價格 (价-)"
+      }
+    },
+    {
+      "hanzi": "坚持",
+      "pinyin": "jiān chí",
+      "english": "to persevere with",
+      "cantonese": {
+        "jyutping": "gin1 ci4",
+        "hanzi": "堅持 (坚-)"
+      }
+    },
+    {
+      "hanzi": "减肥",
+      "pinyin": "jiǎn féi",
+      "english": "to lose weight",
+      "cantonese": {
+        "jyutping": "gaam2 fei4",
+        "hanzi": "減肥 (减-)"
+      }
+    },
+    {
+      "hanzi": "减少",
+      "pinyin": "jiǎn shǎo",
+      "english": "to lessen",
+      "cantonese": {
+        "jyutping": "gaam2 siu2",
+        "hanzi": "減少 (减-)"
+      }
+    },
+    {
+      "hanzi": "将来",
+      "pinyin": "jiāng lái",
+      "english": "in the future",
+      "cantonese": {
+        "jyutping": "zoeng1 loi4",
+        "hanzi": "將來 (将来)"
+      }
+    },
+    {
+      "hanzi": "奖金",
+      "pinyin": "jiǎng jīn",
+      "english": "premium",
+      "cantonese": {
+        "jyutping": "zoeng2 gam1",
+        "hanzi": "獎金 (奖-)"
+      }
+    },
+    {
+      "hanzi": "降低",
+      "pinyin": "jiàng dī",
+      "english": "to reduce",
+      "cantonese": {
+        "jyutping": "gong3 dai1",
+        "hanzi": "降低"
+      }
+    },
+    {
+      "hanzi": "交",
+      "pinyin": "jiāo",
+      "english": "to hand over",
+      "cantonese": {
+        "jyutping": "gaau1",
+        "hanzi": "交"
+      }
+    },
+    {
+      "hanzi": "交流",
+      "pinyin": "jiāo liú",
+      "english": "to exchange",
+      "cantonese": {
+        "jyutping": "gaau1 lau4",
+        "hanzi": "交流"
+      }
+    },
+    {
+      "hanzi": "交通",
+      "pinyin": "jiāo tōng",
+      "english": "to be connected",
+      "cantonese": {
+        "jyutping": "gaau1 tung1",
+        "hanzi": "交通"
+      }
+    },
+    {
+      "hanzi": "骄傲",
+      "pinyin": "jiāo ào",
+      "english": "pride",
+      "cantonese": {
+        "jyutping": "giu1 ngou6",
+        "hanzi": "驕傲 (骄-)"
+      }
+    },
+    {
+      "hanzi": "饺子",
+      "pinyin": "jiǎo zi",
+      "english": "dumpling",
+      "cantonese": {
+        "jyutping": "gaau2 zi2",
+        "hanzi": "餃子 (饺-)"
+      }
+    },
+    {
+      "hanzi": "教授",
+      "pinyin": "jiào shòu",
+      "english": "professor",
+      "cantonese": {
+        "jyutping": "gaau3 sau6",
+        "hanzi": "教授"
+      }
+    },
+    {
+      "hanzi": "教育",
+      "pinyin": "jiào yù",
+      "english": "to educate",
+      "cantonese": {
+        "jyutping": "gaau3 juk6",
+        "hanzi": "教育"
+      }
+    },
+    {
+      "hanzi": "接受",
+      "pinyin": "jiē shòu",
+      "english": "to accept",
+      "cantonese": {
+        "jyutping": "zip3 sau6",
+        "hanzi": "接受"
+      }
+    },
+    {
+      "hanzi": "节约",
+      "pinyin": "jié yuē",
+      "english": "to economize",
+      "cantonese": {
+        "jyutping": "zit3 joek3",
+        "hanzi": "節約 (节约)"
+      }
+    },
+    {
+      "hanzi": "结果",
+      "pinyin": "jié guǒ",
+      "english": "outcome",
+      "cantonese": {
+        "jyutping": "git3 gwo2",
+        "hanzi": "結果 (结-)"
+      }
+    },
+    {
+      "hanzi": "解释",
+      "pinyin": "jiě shì",
+      "english": "explanation",
+      "cantonese": {
+        "jyutping": "gaai2 sik1",
+        "hanzi": "解釋 (-释)"
+      }
+    },
+    {
+      "hanzi": "紧张",
+      "pinyin": "jǐn zhāng",
+      "english": "nervous",
+      "cantonese": {
+        "jyutping": "gan2 zoeng1",
+        "hanzi": "緊張 (紧张)"
+      }
+    },
+    {
+      "hanzi": "尽管",
+      "pinyin": "jǐn guǎn",
+      "english": "despite",
+      "cantonese": {
+        "jyutping": "zeon6 gun2",
+        "hanzi": "盡管 (尽-)"
+      }
+    },
+    {
+      "hanzi": "进行",
+      "pinyin": "jìn xíng",
+      "english": "to advance",
+      "cantonese": {
+        "jyutping": "zeon3 hang4",
+        "hanzi": "進行 (进-)"
+      }
+    },
+    {
+      "hanzi": "禁止",
+      "pinyin": "jìn zhǐ",
+      "english": "to prohibit",
+      "cantonese": {
+        "jyutping": "gam3 zi2",
+        "hanzi": "禁止"
+      }
+    },
+    {
+      "hanzi": "精彩",
+      "pinyin": "jīng cǎi",
+      "english": "brilliant",
+      "cantonese": {
+        "jyutping": "zing1 coi2",
+        "hanzi": "精彩"
+      }
+    },
+    {
+      "hanzi": "精神",
+      "pinyin": "jīng shén",
+      "english": "spirit",
+      "cantonese": {
+        "jyutping": "zing1 san4",
+        "hanzi": "精神"
+      }
+    },
+    {
+      "hanzi": "经济",
+      "pinyin": "jīng jì",
+      "english": "economy",
+      "cantonese": {
+        "jyutping": "ging1 zai3",
+        "hanzi": "經濟 (经济)"
+      }
+    },
+    {
+      "hanzi": "经历",
+      "pinyin": "jīng lì",
+      "english": "experience",
+      "cantonese": {
+        "jyutping": "ging1 lik6",
+        "hanzi": "經歷 (经历)"
+      }
+    },
+    {
+      "hanzi": "经验",
+      "pinyin": "jīng yàn",
+      "english": "to experience",
+      "cantonese": {
+        "jyutping": "ging1 jim6",
+        "hanzi": "經驗 (经验)"
+      }
+    },
+    {
+      "hanzi": "京剧",
+      "pinyin": "Jīng jù",
+      "english": "Beijing opera",
+      "cantonese": {
+        "jyutping": "ging1 kek6",
+        "hanzi": "京劇 (-剧)"
+      }
+    },
+    {
+      "hanzi": "警察",
+      "pinyin": "jǐng chá",
+      "english": "police",
+      "cantonese": {
+        "jyutping": "ging2 caat3",
+        "hanzi": "警察"
+      }
+    },
+    {
+      "hanzi": "竟然",
+      "pinyin": "jìng rán",
+      "english": "unexpectedly",
+      "cantonese": {
+        "jyutping": "ging2 jin4",
+        "hanzi": "竟然"
+      }
+    },
+    {
+      "hanzi": "竞争",
+      "pinyin": "jìng zhēng",
+      "english": "to compete",
+      "cantonese": {
+        "jyutping": "ging6 zang1",
+        "hanzi": "競爭 (竞争)"
+      }
+    },
+    {
+      "hanzi": "镜子",
+      "pinyin": "jìng zi",
+      "english": "mirror",
+      "cantonese": {
+        "jyutping": "geng3 zi2",
+        "hanzi": "鏡子 (镜-)"
+      }
+    },
+    {
+      "hanzi": "究竟",
+      "pinyin": "jiū jìng",
+      "english": "after all (when all is said and done)",
+      "cantonese": {
+        "jyutping": "gau3 ging2",
+        "hanzi": "究竟"
+      }
+    },
+    {
+      "hanzi": "举办",
+      "pinyin": "jǔ bàn",
+      "english": "to conduct",
+      "cantonese": {
+        "jyutping": "geoi2 baan6",
+        "hanzi": "舉辦 (举办)"
+      }
+    },
+    {
+      "hanzi": "拒绝",
+      "pinyin": "jù jué",
+      "english": "to refuse",
+      "cantonese": {
+        "jyutping": "keoi5 zyut6",
+        "hanzi": "拒絕 (-绝)"
+      }
+    },
+    {
+      "hanzi": "距离",
+      "pinyin": "jù lí",
+      "english": "distance",
+      "cantonese": {
+        "jyutping": "keoi5 lei4",
+        "hanzi": "距離 (-离)"
+      }
+    },
+    {
+      "hanzi": "开玩笑",
+      "pinyin": "kāi wán xiào",
+      "english": "to play a joke",
+      "cantonese": {
+        "jyutping": "hoi1 waan4 siu3",
+        "hanzi": "開玩笑 (开--)"
+      }
+    },
+    {
+      "hanzi": "看法",
+      "pinyin": "kàn fǎ",
+      "english": "way of looking at a thing",
+      "cantonese": {
+        "jyutping": "hon3 faat3",
+        "hanzi": "看法"
+      }
+    },
+    {
+      "hanzi": "考虑",
+      "pinyin": "kǎo lǜ",
+      "english": "to think over",
+      "cantonese": {
+        "jyutping": "haau2 leoi6",
+        "hanzi": "考慮 (-虑)"
+      }
+    },
+    {
+      "hanzi": "棵",
+      "pinyin": "kē",
+      "english": "classifier for trees",
+      "cantonese": {
+        "jyutping": "fo2",
+        "hanzi": "棵"
+      }
+    },
+    {
+      "hanzi": "科学",
+      "pinyin": "kē xué",
+      "english": "science",
+      "cantonese": {
+        "jyutping": "fo1 hok6",
+        "hanzi": "科學 (-学)"
+      }
+    },
+    {
+      "hanzi": "咳嗽",
+      "pinyin": "ké sou",
+      "english": "to cough",
+      "cantonese": {
+        "jyutping": "kat1 sau3",
+        "hanzi": "咳嗽"
+      }
+    },
+    {
+      "hanzi": "可怜",
+      "pinyin": "kě lián",
+      "english": "pitiful",
+      "cantonese": {
+        "jyutping": "ho2 lin4",
+        "hanzi": "可憐 (-怜)"
+      }
+    },
+    {
+      "hanzi": "可是",
+      "pinyin": "kě shì",
+      "english": "but",
+      "cantonese": {
+        "jyutping": "ho2 si6",
+        "hanzi": "可是"
+      }
+    },
+    {
+      "hanzi": "可惜",
+      "pinyin": "kě xī",
+      "english": "it is a pity",
+      "cantonese": {
+        "jyutping": "ho2 sik1",
+        "hanzi": "可惜"
+      }
+    },
+    {
+      "hanzi": "肯定",
+      "pinyin": "kěn dìng",
+      "english": "to be sure",
+      "cantonese": {
+        "jyutping": "hang2 ding6",
+        "hanzi": "肯定"
+      }
+    },
+    {
+      "hanzi": "空气",
+      "pinyin": "kōng qì",
+      "english": "air",
+      "cantonese": {
+        "jyutping": "hung1 hei3",
+        "hanzi": "空氣 (-气)"
+      }
+    },
+    {
+      "hanzi": "恐怕",
+      "pinyin": "kǒng pà",
+      "english": "fear",
+      "cantonese": {
+        "jyutping": "hung2 paa3",
+        "hanzi": "恐怕"
+      }
+    },
+    {
+      "hanzi": "苦",
+      "pinyin": "kǔ",
+      "english": "bitter",
+      "cantonese": {
+        "jyutping": "fu2",
+        "hanzi": "苦"
+      }
+    },
+    {
+      "hanzi": "宽",
+      "pinyin": "kuān",
+      "english": "lenient",
+      "cantonese": {
+        "jyutping": "fun1",
+        "hanzi": "寬 (宽)"
+      }
+    },
+    {
+      "hanzi": "困",
+      "pinyin": "kùn",
+      "english": "sleepy",
+      "cantonese": {
+        "jyutping": "kwan3",
+        "hanzi": "困"
+      }
+    },
+    {
+      "hanzi": "困难",
+      "pinyin": "kùn nan",
+      "english": "difficult",
+      "cantonese": {
+        "jyutping": "kwan3 naan4",
+        "hanzi": "困難 (-难)"
+      }
+    },
+    {
+      "hanzi": "扩大",
+      "pinyin": "kuò dà",
+      "english": "to expand",
+      "cantonese": {
+        "jyutping": "kong3 daai6",
+        "hanzi": "擴大 (扩-)"
+      }
+    },
+    {
+      "hanzi": "拉",
+      "pinyin": "lā",
+      "english": "to pull",
+      "cantonese": {
+        "jyutping": "laai1",
+        "hanzi": "拉"
+      }
+    },
+    {
+      "hanzi": "垃圾桶",
+      "pinyin": "lā jī tǒng",
+      "english": "rubbish bin",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "垃圾桶"
+      }
+    },
+    {
+      "hanzi": "辣",
+      "pinyin": "là",
+      "english": "hot (spicy)",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "辢 (辣)"
+      }
+    },
+    {
+      "hanzi": "来不及",
+      "pinyin": "lái bu jí",
+      "english": "there's not enough time (to do sth)",
+      "cantonese": {
+        "jyutping": "loi4 bat1 kap6",
+        "hanzi": "來不及 (来--)"
+      }
+    },
+    {
+      "hanzi": "来得及",
+      "pinyin": "lái de jí",
+      "english": "there's still time",
+      "cantonese": {
+        "jyutping": "loi4 dak1 kap6",
+        "hanzi": "來得及 (来--)"
+      }
+    },
+    {
+      "hanzi": "懒",
+      "pinyin": "lǎn",
+      "english": "lazy",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "嬾 (懒)"
+      }
+    },
+    {
+      "hanzi": "浪费",
+      "pinyin": "làng fèi",
+      "english": "to waste",
+      "cantonese": {
+        "jyutping": "long6 fai3",
+        "hanzi": "浪費 (-费)"
+      }
+    },
+    {
+      "hanzi": "浪漫",
+      "pinyin": "làng màn",
+      "english": "romantic",
+      "cantonese": {
+        "jyutping": "long6 maan6",
+        "hanzi": "浪漫"
+      }
+    },
+    {
+      "hanzi": "老虎",
+      "pinyin": "lǎo hǔ",
+      "english": "tiger",
+      "cantonese": {
+        "jyutping": "lou5 fu2",
+        "hanzi": "老虎"
+      }
+    },
+    {
+      "hanzi": "冷静",
+      "pinyin": "lěng jìng",
+      "english": "calm",
+      "cantonese": {
+        "jyutping": "laang5 zing6",
+        "hanzi": "冷靜 (-静)"
+      }
+    },
+    {
+      "hanzi": "礼貌",
+      "pinyin": "lǐ mào",
+      "english": "courtesy",
+      "cantonese": {
+        "jyutping": "lai5 maau6",
+        "hanzi": "禮貌 (礼-)"
+      }
+    },
+    {
+      "hanzi": "理发",
+      "pinyin": "lǐ fà",
+      "english": "a barber",
+      "cantonese": {
+        "jyutping": "lei5 faat3",
+        "hanzi": "理髮 (-发)"
+      }
+    },
+    {
+      "hanzi": "理解",
+      "pinyin": "lǐ jiě",
+      "english": "to comprehend",
+      "cantonese": {
+        "jyutping": "lei5 gaai2",
+        "hanzi": "理解"
+      }
+    },
+    {
+      "hanzi": "理想",
+      "pinyin": "lǐ xiǎng",
+      "english": "a dream",
+      "cantonese": {
+        "jyutping": "lei5 soeng2",
+        "hanzi": "理想"
+      }
+    },
+    {
+      "hanzi": "厉害",
+      "pinyin": "lì hai",
+      "english": "difficult to deal with",
+      "cantonese": {
+        "jyutping": "lai6 hoi6",
+        "hanzi": "厲害 (厉-)"
+      }
+    },
+    {
+      "hanzi": "力气",
+      "pinyin": "lì qi",
+      "english": "strength",
+      "cantonese": {
+        "jyutping": "lik6 hei3",
+        "hanzi": "力氣 (-气)"
+      }
+    },
+    {
+      "hanzi": "例如",
+      "pinyin": "lì rú",
+      "english": "for example",
+      "cantonese": {
+        "jyutping": "lai6 jyu4",
+        "hanzi": "例如"
+      }
+    },
+    {
+      "hanzi": "俩",
+      "pinyin": "liǎ",
+      "english": "two (colloquial equivalent of 兩個|两个)",
+      "cantonese": {
+        "jyutping": "loeng5",
+        "hanzi": "倆 (俩)"
+      }
+    },
+    {
+      "hanzi": "连",
+      "pinyin": "lián",
+      "english": "to link",
+      "cantonese": {
+        "jyutping": "lin4",
+        "hanzi": "連 (连)"
+      }
+    },
+    {
+      "hanzi": "联系",
+      "pinyin": "lián xì",
+      "english": "connection",
+      "cantonese": {
+        "jyutping": "lyun4 hai6",
+        "hanzi": "聯繫 (联系)"
+      }
+    },
+    {
+      "hanzi": "凉快",
+      "pinyin": "liáng kuai",
+      "english": "nice and cold",
+      "cantonese": {
+        "jyutping": "loeng4 faai3",
+        "hanzi": "涼快 (凉-)"
+      }
+    },
+    {
+      "hanzi": "亮",
+      "pinyin": "liàng",
+      "english": "bright",
+      "cantonese": {
+        "jyutping": "loeng6",
+        "hanzi": "亮"
+      }
+    },
+    {
+      "hanzi": "聊天",
+      "pinyin": "liáo tiān",
+      "english": "to chat",
+      "cantonese": {
+        "jyutping": "liu4 tin1",
+        "hanzi": "聊天"
+      }
+    },
+    {
+      "hanzi": "另外",
+      "pinyin": "lìng wài",
+      "english": "additional",
+      "cantonese": {
+        "jyutping": "ling6 ngoi6",
+        "hanzi": "另外"
+      }
+    },
+    {
+      "hanzi": "留",
+      "pinyin": "liú",
+      "english": "to leave (a message etc)",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "㽞 (留)"
+      }
+    },
+    {
+      "hanzi": "留学",
+      "pinyin": "liú xué",
+      "english": "to study abroad",
+      "cantonese": {
+        "jyutping": "lau4 hok6",
+        "hanzi": "留學 (-学)"
+      }
+    },
+    {
+      "hanzi": "流泪",
+      "pinyin": "liú lèi",
+      "english": "to shed tears",
+      "cantonese": {
+        "jyutping": "lau4 leoi6",
+        "hanzi": "流淚 (-泪)"
+      }
+    },
+    {
+      "hanzi": "流利",
+      "pinyin": "liú lì",
+      "english": "fluent",
+      "cantonese": {
+        "jyutping": "lau4 lei6",
+        "hanzi": "流利"
+      }
+    },
+    {
+      "hanzi": "流行",
+      "pinyin": "liú xíng",
+      "english": "to spread",
+      "cantonese": {
+        "jyutping": "lau4 hang4",
+        "hanzi": "流行"
+      }
+    },
+    {
+      "hanzi": "乱",
+      "pinyin": "luàn",
+      "english": "in confusion or disorder",
+      "cantonese": {
+        "jyutping": "lyun6",
+        "hanzi": "亂 (乱)"
+      }
+    },
+    {
+      "hanzi": "律师",
+      "pinyin": "lǜ shī",
+      "english": "lawyer",
+      "cantonese": {
+        "jyutping": "leot6 si1",
+        "hanzi": "律師 (-师)"
+      }
+    },
+    {
+      "hanzi": "麻烦",
+      "pinyin": "má fan",
+      "english": "inconvenient",
+      "cantonese": {
+        "jyutping": "maa4 faan4",
+        "hanzi": "麻煩 (-烦)"
+      }
+    },
+    {
+      "hanzi": "马虎",
+      "pinyin": "mǎ hu",
+      "english": "careless",
+      "cantonese": {
+        "jyutping": "maa1 fu1",
+        "hanzi": "馬虎 (马-)"
+      }
+    },
+    {
+      "hanzi": "满",
+      "pinyin": "mǎn",
+      "english": "full",
+      "cantonese": {
+        "jyutping": "mun5",
+        "hanzi": "滿 (满)"
+      }
+    },
+    {
+      "hanzi": "毛巾",
+      "pinyin": "máo jīn",
+      "english": "towel",
+      "cantonese": {
+        "jyutping": "mou4 gan1",
+        "hanzi": "毛巾"
+      }
+    },
+    {
+      "hanzi": "美丽",
+      "pinyin": "měi lì",
+      "english": "beautiful",
+      "cantonese": {
+        "jyutping": "mei5 lai6",
+        "hanzi": "美麗 (-丽)"
+      }
+    },
+    {
+      "hanzi": "梦",
+      "pinyin": "mèng",
+      "english": "dream",
+      "cantonese": {
+        "jyutping": "mung6",
+        "hanzi": "夢 (梦)"
+      }
+    },
+    {
+      "hanzi": "密码",
+      "pinyin": "mì mǎ",
+      "english": "code",
+      "cantonese": {
+        "jyutping": "mat6 maa5",
+        "hanzi": "密碼 (-码)"
+      }
+    },
+    {
+      "hanzi": "免费",
+      "pinyin": "miǎn fèi",
+      "english": "free (of charge)",
+      "cantonese": {
+        "jyutping": "min5 fai3",
+        "hanzi": "免費 (-费)"
+      }
+    },
+    {
+      "hanzi": "民族",
+      "pinyin": "mín zú",
+      "english": "nationality",
+      "cantonese": {
+        "jyutping": "man4 zuk6",
+        "hanzi": "民族"
+      }
+    },
+    {
+      "hanzi": "母亲",
+      "pinyin": "mǔ qīn",
+      "english": "mother",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "母親 (-亲)"
+      }
+    },
+    {
+      "hanzi": "目的",
+      "pinyin": "mù dì",
+      "english": "purpose",
+      "cantonese": {
+        "jyutping": "muk6 dik1",
+        "hanzi": "目的"
+      }
+    },
+    {
+      "hanzi": "耐心",
+      "pinyin": "nài xīn",
+      "english": "to be patient",
+      "cantonese": {
+        "jyutping": "noi6 sam1",
+        "hanzi": "耐心"
+      }
+    },
+    {
+      "hanzi": "难道",
+      "pinyin": "nán dào",
+      "english": "don't tell me ...",
+      "cantonese": {
+        "jyutping": "naan4 dou6",
+        "hanzi": "難道 (难-)"
+      }
+    },
+    {
+      "hanzi": "难受",
+      "pinyin": "nán shòu",
+      "english": "to feel unwell",
+      "cantonese": {
+        "jyutping": "naan4 sau6",
+        "hanzi": "難受 (难-)"
+      }
+    },
+    {
+      "hanzi": "内",
+      "pinyin": "nèi",
+      "english": "inside",
+      "cantonese": {
+        "jyutping": "noi6",
+        "hanzi": "內 (内)"
+      }
+    },
+    {
+      "hanzi": "内容",
+      "pinyin": "nèi róng",
+      "english": "content",
+      "cantonese": {
+        "jyutping": "noi6 jung4",
+        "hanzi": "內容 (内-)"
+      }
+    },
+    {
+      "hanzi": "能力",
+      "pinyin": "néng lì",
+      "english": "capability",
+      "cantonese": {
+        "jyutping": "nang4 lik6",
+        "hanzi": "能力"
+      }
+    },
+    {
+      "hanzi": "年龄",
+      "pinyin": "nián líng",
+      "english": "(a person's) age",
+      "cantonese": {
+        "jyutping": "nin4 ling4",
+        "hanzi": "年齡 (-龄)"
+      }
+    },
+    {
+      "hanzi": "农村",
+      "pinyin": "nóng cūn",
+      "english": "rural area",
+      "cantonese": {
+        "jyutping": "nung4 cyun1",
+        "hanzi": "農村 (农-)"
+      }
+    },
+    {
+      "hanzi": "弄",
+      "pinyin": "nòng",
+      "english": "to do",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "衖 (弄)"
+      }
+    },
+    {
+      "hanzi": "暖和",
+      "pinyin": "nuǎn huo",
+      "english": "warm",
+      "cantonese": {
+        "jyutping": "nyun5 wo4",
+        "hanzi": "暖和"
+      }
+    },
+    {
+      "hanzi": "偶尔",
+      "pinyin": "ǒu ěr",
+      "english": "occasionally",
+      "cantonese": {
+        "jyutping": "ngau5 ji5",
+        "hanzi": "偶爾 (-尔)"
+      }
+    },
+    {
+      "hanzi": "排列",
+      "pinyin": "pái liè",
+      "english": "array",
+      "cantonese": {
+        "jyutping": "paai4 lit6",
+        "hanzi": "排列"
+      }
+    },
+    {
+      "hanzi": "判断",
+      "pinyin": "pàn duàn",
+      "english": "to decide",
+      "cantonese": {
+        "jyutping": "pun3 dyun6",
+        "hanzi": "判斷 (-断)"
+      }
+    },
+    {
+      "hanzi": "陪",
+      "pinyin": "péi",
+      "english": "to accompany",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "陪"
+      }
+    },
+    {
+      "hanzi": "批评",
+      "pinyin": "pī píng",
+      "english": "to criticize",
+      "cantonese": {
+        "jyutping": "pai1 ping4",
+        "hanzi": "批評 (-评)"
+      }
+    },
+    {
+      "hanzi": "皮肤",
+      "pinyin": "pí fū",
+      "english": "skin",
+      "cantonese": {
+        "jyutping": "pei4 fu1",
+        "hanzi": "皮膚 (-肤)"
+      }
+    },
+    {
+      "hanzi": "脾气",
+      "pinyin": "pí qi",
+      "english": "character",
+      "cantonese": {
+        "jyutping": "pei4 hei3",
+        "hanzi": "脾氣 (-气)"
+      }
+    },
+    {
+      "hanzi": "篇",
+      "pinyin": "piān",
+      "english": "sheet",
+      "cantonese": {
+        "jyutping": "pin1",
+        "hanzi": "篇"
+      }
+    },
+    {
+      "hanzi": "骗",
+      "pinyin": "piàn",
+      "english": "to cheat",
+      "cantonese": {
+        "jyutping": "pin3",
+        "hanzi": "騙 (骗)"
+      }
+    },
+    {
+      "hanzi": "乒乓球",
+      "pinyin": "pīng pāng qiú",
+      "english": "table tennis",
+      "cantonese": {
+        "jyutping": "bing1 bam1 kau4",
+        "hanzi": "乒乓球"
+      }
+    },
+    {
+      "hanzi": "平时",
+      "pinyin": "píng shí",
+      "english": "ordinarily",
+      "cantonese": {
+        "jyutping": "ping4 si4",
+        "hanzi": "平時 (-时)"
+      }
+    },
+    {
+      "hanzi": "瓶子",
+      "pinyin": "píng zi",
+      "english": "bottle",
+      "cantonese": {
+        "jyutping": "ping4 zi2",
+        "hanzi": "瓶子"
+      }
+    },
+    {
+      "hanzi": "破",
+      "pinyin": "pò",
+      "english": "broken",
+      "cantonese": {
+        "jyutping": "po3",
+        "hanzi": "破"
+      }
+    },
+    {
+      "hanzi": "普遍",
+      "pinyin": "pǔ biàn",
+      "english": "universal",
+      "cantonese": {
+        "jyutping": "pou2 pin3",
+        "hanzi": "普遍"
+      }
+    },
+    {
+      "hanzi": "其次",
+      "pinyin": "qí cì",
+      "english": "next",
+      "cantonese": {
+        "jyutping": "kei4 ci3",
+        "hanzi": "其次"
+      }
+    },
+    {
+      "hanzi": "其中",
+      "pinyin": "qí zhōng",
+      "english": "among",
+      "cantonese": {
+        "jyutping": "kei4 zung1",
+        "hanzi": "其中"
+      }
+    },
+    {
+      "hanzi": "起飞",
+      "pinyin": "qǐ fēi",
+      "english": "to take off (in an airplane)",
+      "cantonese": {
+        "jyutping": "hei2 fei1",
+        "hanzi": "起飛 (-飞)"
+      }
+    },
+    {
+      "hanzi": "起来",
+      "pinyin": "qi lai",
+      "english": "(after a verb",
+      "cantonese": {
+        "jyutping": "hei2 loi4",
+        "hanzi": "起來 (-来)"
+      }
+    },
+    {
+      "hanzi": "气候",
+      "pinyin": "qì hòu",
+      "english": "climate",
+      "cantonese": {
+        "jyutping": "hei3 hau6",
+        "hanzi": "氣候 (气-)"
+      }
+    },
+    {
+      "hanzi": "千万",
+      "pinyin": "qiān wàn",
+      "english": "ten million",
+      "cantonese": {
+        "jyutping": "cin1 maan6",
+        "hanzi": "千萬 (-万)"
+      }
+    },
+    {
+      "hanzi": "签证",
+      "pinyin": "qiān zhèng",
+      "english": "visa",
+      "cantonese": {
+        "jyutping": "cim1 zing3",
+        "hanzi": "簽證 (签证)"
+      }
+    },
+    {
+      "hanzi": "墙",
+      "pinyin": "qiáng",
+      "english": "wall",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "墻 (墙)"
+      }
+    },
+    {
+      "hanzi": "敲",
+      "pinyin": "qiāo",
+      "english": "to hit",
+      "cantonese": {
+        "jyutping": "haau1",
+        "hanzi": "敲"
+      }
+    },
+    {
+      "hanzi": "桥",
+      "pinyin": "qiáo",
+      "english": "bridge",
+      "cantonese": {
+        "jyutping": "kiu4",
+        "hanzi": "橋 (桥)"
+      }
+    },
+    {
+      "hanzi": "巧克力",
+      "pinyin": "qiǎo kè lì",
+      "english": "chocolate (loanword)",
+      "cantonese": {
+        "jyutping": "haau2 hak1 lik6",
+        "hanzi": "巧克力"
+      }
+    },
+    {
+      "hanzi": "亲戚",
+      "pinyin": "qīn qi",
+      "english": "a relative (i.e. family relation)",
+      "cantonese": {
+        "jyutping": "can1 cik1",
+        "hanzi": "親戚 (亲-)"
+      }
+    },
+    {
+      "hanzi": "轻",
+      "pinyin": "qīng",
+      "english": "light",
+      "cantonese": {
+        "jyutping": "hing1",
+        "hanzi": "輕 (轻)"
+      }
+    },
+    {
+      "hanzi": "轻松",
+      "pinyin": "qīng sōng",
+      "english": "gentle",
+      "cantonese": {
+        "jyutping": "hing1 sung1",
+        "hanzi": "輕鬆 (轻松)"
+      }
+    },
+    {
+      "hanzi": "情况",
+      "pinyin": "qíng kuàng",
+      "english": "circumstances",
+      "cantonese": {
+        "jyutping": "cing4 fong3",
+        "hanzi": "情況 (-况)"
+      }
+    },
+    {
+      "hanzi": "请假",
+      "pinyin": "qǐng jià",
+      "english": "to request leave of absence",
+      "cantonese": {
+        "jyutping": "ceng2 gaa3",
+        "hanzi": "請假 (请-)"
+      }
+    },
+    {
+      "hanzi": "请客",
+      "pinyin": "qǐng kè",
+      "english": "to give a dinner party",
+      "cantonese": {
+        "jyutping": "ceng2 haak3",
+        "hanzi": "請客 (请-)"
+      }
+    },
+    {
+      "hanzi": "穷",
+      "pinyin": "qióng",
+      "english": "exhausted",
+      "cantonese": {
+        "jyutping": "kung4",
+        "hanzi": "窮 (穷)"
+      }
+    },
+    {
+      "hanzi": "区别",
+      "pinyin": "qū bié",
+      "english": "difference",
+      "cantonese": {
+        "jyutping": "keoi1 bit6",
+        "hanzi": "區別 (区别)"
+      }
+    },
+    {
+      "hanzi": "取",
+      "pinyin": "qǔ",
+      "english": "to take",
+      "cantonese": {
+        "jyutping": "ceoi2",
+        "hanzi": "取"
+      }
+    },
+    {
+      "hanzi": "全部",
+      "pinyin": "quán bù",
+      "english": "whole",
+      "cantonese": {
+        "jyutping": "cyun4 bou6",
+        "hanzi": "全部"
+      }
+    },
+    {
+      "hanzi": "缺点",
+      "pinyin": "quē diǎn",
+      "english": "weak point",
+      "cantonese": {
+        "jyutping": "kyut3 dim2",
+        "hanzi": "缺點 (-点)"
+      }
+    },
+    {
+      "hanzi": "缺少",
+      "pinyin": "quē shǎo",
+      "english": "lack",
+      "cantonese": {
+        "jyutping": "kyut3 siu2",
+        "hanzi": "缺少"
+      }
+    },
+    {
+      "hanzi": "却",
+      "pinyin": "què",
+      "english": "but",
+      "cantonese": {
+        "jyutping": "koek3",
+        "hanzi": "卻 (却)"
+      }
+    },
+    {
+      "hanzi": "确实",
+      "pinyin": "què shí",
+      "english": "indeed",
+      "cantonese": {
+        "jyutping": "kok3 sat6",
+        "hanzi": "確實 (确实)"
+      }
+    },
+    {
+      "hanzi": "群",
+      "pinyin": "qún",
+      "english": "group",
+      "cantonese": {
+        "jyutping": "kwan4",
+        "hanzi": "群"
+      }
+    },
+    {
+      "hanzi": "然而",
+      "pinyin": "rán ér",
+      "english": "however",
+      "cantonese": {
+        "jyutping": "jin4 ji4",
+        "hanzi": "然而"
+      }
+    },
+    {
+      "hanzi": "热闹",
+      "pinyin": "rè nao",
+      "english": "bustling with noise and excitement",
+      "cantonese": {
+        "jyutping": "jit6 naau6",
+        "hanzi": "熱鬧 (热闹)"
+      }
+    },
+    {
+      "hanzi": "人民币",
+      "pinyin": "rén mín bì",
+      "english": "Renminbi (RMB)",
+      "cantonese": {
+        "jyutping": "jan4 man4 bai6",
+        "hanzi": "人民幣 (--币)"
+      }
+    },
+    {
+      "hanzi": "任何",
+      "pinyin": "rèn hé",
+      "english": "any",
+      "cantonese": {
+        "jyutping": "jam6 ho4",
+        "hanzi": "任何"
+      }
+    },
+    {
+      "hanzi": "任务",
+      "pinyin": "rèn wu",
+      "english": "mission",
+      "cantonese": {
+        "jyutping": "jam6 mou6",
+        "hanzi": "任務 (-务)"
+      }
+    },
+    {
+      "hanzi": "扔",
+      "pinyin": "rēng",
+      "english": "to throw",
+      "cantonese": {
+        "jyutping": "wing1",
+        "hanzi": "扔"
+      }
+    },
+    {
+      "hanzi": "仍然",
+      "pinyin": "réng rán",
+      "english": "still",
+      "cantonese": {
+        "jyutping": "jing4 jin4",
+        "hanzi": "仍然"
+      }
+    },
+    {
+      "hanzi": "日记",
+      "pinyin": "rì jì",
+      "english": "diary",
+      "cantonese": {
+        "jyutping": "jat6 gei3",
+        "hanzi": "日記 (-记)"
+      }
+    },
+    {
+      "hanzi": "入口",
+      "pinyin": "rù kǒu",
+      "english": "entrance",
+      "cantonese": {
+        "jyutping": "jap6 hau2",
+        "hanzi": "入口"
+      }
+    },
+    {
+      "hanzi": "软",
+      "pinyin": "ruǎn",
+      "english": "soft",
+      "cantonese": {
+        "jyutping": "jyun5 daat3 daat3",
+        "hanzi": "軟 (软)"
+      }
+    },
+    {
+      "hanzi": "散步",
+      "pinyin": "sàn bù",
+      "english": "to take a walk",
+      "cantonese": {
+        "jyutping": "saan3 bou6",
+        "hanzi": "散步"
+      }
+    },
+    {
+      "hanzi": "森林",
+      "pinyin": "sēn lín",
+      "english": "forest",
+      "cantonese": {
+        "jyutping": "sam1 lam4",
+        "hanzi": "森林"
+      }
+    },
+    {
+      "hanzi": "沙发",
+      "pinyin": "shā fā",
+      "english": "sofa",
+      "cantonese": {
+        "jyutping": "saa1 faat3",
+        "hanzi": "沙發 (-发)"
+      }
+    },
+    {
+      "hanzi": "商量",
+      "pinyin": "shāng liang",
+      "english": "to consult",
+      "cantonese": {
+        "jyutping": "soeng1 loeng6",
+        "hanzi": "商量"
+      }
+    },
+    {
+      "hanzi": "伤心",
+      "pinyin": "shāng xīn",
+      "english": "to grieve",
+      "cantonese": {
+        "jyutping": "soeng1 sam1",
+        "hanzi": "傷心 (伤-)"
+      }
+    },
+    {
+      "hanzi": "稍微",
+      "pinyin": "shāo wēi",
+      "english": "a little bit",
+      "cantonese": {
+        "jyutping": "saau2 mei4",
+        "hanzi": "稍微"
+      }
+    },
+    {
+      "hanzi": "社会",
+      "pinyin": "shè huì",
+      "english": "society",
+      "cantonese": {
+        "jyutping": "se5 wui2",
+        "hanzi": "社會 (-会)"
+      }
+    },
+    {
+      "hanzi": "深",
+      "pinyin": "shēn",
+      "english": "close",
+      "cantonese": {
+        "jyutping": "sam1",
+        "hanzi": "深"
+      }
+    },
+    {
+      "hanzi": "申请",
+      "pinyin": "shēn qǐng",
+      "english": "to apply for sth",
+      "cantonese": {
+        "jyutping": "san1 cing2",
+        "hanzi": "申請 (-请)"
+      }
+    },
+    {
+      "hanzi": "甚至",
+      "pinyin": "shèn zhì",
+      "english": "even",
+      "cantonese": {
+        "jyutping": "sam6 zi3",
+        "hanzi": "甚至"
+      }
+    },
+    {
+      "hanzi": "生活",
+      "pinyin": "shēng huó",
+      "english": "life",
+      "cantonese": {
+        "jyutping": "sang1 wut6",
+        "hanzi": "生活"
+      }
+    },
+    {
+      "hanzi": "生命",
+      "pinyin": "shēng mìng",
+      "english": "life",
+      "cantonese": {
+        "jyutping": "sang1 ming6",
+        "hanzi": "生命"
+      }
+    },
+    {
+      "hanzi": "省",
+      "pinyin": "shěng",
+      "english": "to save",
+      "cantonese": {
+        "jyutping": "saang2",
+        "hanzi": "省"
+      }
+    },
+    {
+      "hanzi": "剩",
+      "pinyin": "shèng",
+      "english": "to remain",
+      "cantonese": {
+        "jyutping": "sing6",
+        "hanzi": "剩"
+      }
+    },
+    {
+      "hanzi": "失败",
+      "pinyin": "shī bài",
+      "english": "to be defeated",
+      "cantonese": {
+        "jyutping": "sat1 baai6",
+        "hanzi": "失敗 (-败)"
+      }
+    },
+    {
+      "hanzi": "失望",
+      "pinyin": "shī wàng",
+      "english": "disappointed",
+      "cantonese": {
+        "jyutping": "sat1 mong6",
+        "hanzi": "失望"
+      }
+    },
+    {
+      "hanzi": "师傅",
+      "pinyin": "shī fu",
+      "english": "master",
+      "cantonese": {
+        "jyutping": "si1 fu2",
+        "hanzi": "師傅 (师-)"
+      }
+    },
+    {
+      "hanzi": "湿润",
+      "pinyin": "shī rùn",
+      "english": "moist",
+      "cantonese": {
+        "jyutping": "sap1 jeon6",
+        "hanzi": "濕潤 (湿润)"
+      }
+    },
+    {
+      "hanzi": "狮子",
+      "pinyin": "shī zi",
+      "english": "lion",
+      "cantonese": {
+        "jyutping": "si1 zi2",
+        "hanzi": "獅子 (狮-)"
+      }
+    },
+    {
+      "hanzi": "十分",
+      "pinyin": "shí fēn",
+      "english": "to divide into ten equal parts",
+      "cantonese": {
+        "jyutping": "sap6 fan1",
+        "hanzi": "十分"
+      }
+    },
+    {
+      "hanzi": "实际",
+      "pinyin": "shí jì",
+      "english": "actual",
+      "cantonese": {
+        "jyutping": "sat6 zai3",
+        "hanzi": "實際 (实际)"
+      }
+    },
+    {
+      "hanzi": "实在",
+      "pinyin": "shí zài",
+      "english": "really",
+      "cantonese": {
+        "jyutping": "sat6 zoi6",
+        "hanzi": "實在 (实-)"
+      }
+    },
+    {
+      "hanzi": "食品",
+      "pinyin": "shí pǐn",
+      "english": "foodstuff",
+      "cantonese": {
+        "jyutping": "sik6 ban2",
+        "hanzi": "食品"
+      }
+    },
+    {
+      "hanzi": "使用",
+      "pinyin": "shǐ yòng",
+      "english": "to use",
+      "cantonese": {
+        "jyutping": "si2 jung6",
+        "hanzi": "使用"
+      }
+    },
+    {
+      "hanzi": "试",
+      "pinyin": "shì",
+      "english": "to test",
+      "cantonese": {
+        "jyutping": "si3",
+        "hanzi": "試 (试)"
+      }
+    },
+    {
+      "hanzi": "市场",
+      "pinyin": "shì chǎng",
+      "english": "marketplace",
+      "cantonese": {
+        "jyutping": "si5 coeng4",
+        "hanzi": "市場 (-场)"
+      }
+    },
+    {
+      "hanzi": "世纪",
+      "pinyin": "shì jì",
+      "english": "century",
+      "cantonese": {
+        "jyutping": "sai3 gei2",
+        "hanzi": "世紀 (-纪)"
+      }
+    },
+    {
+      "hanzi": "适合",
+      "pinyin": "shì hé",
+      "english": "to fit",
+      "cantonese": {
+        "jyutping": "sik1 hap6",
+        "hanzi": "適合 (适-)"
+      }
+    },
+    {
+      "hanzi": "适应",
+      "pinyin": "shì yìng",
+      "english": "to adapt",
+      "cantonese": {
+        "jyutping": "sik1 jing3",
+        "hanzi": "適應 (适应)"
+      }
+    },
+    {
+      "hanzi": "收",
+      "pinyin": "shōu",
+      "english": "to receive",
+      "cantonese": {
+        "jyutping": "sau1",
+        "hanzi": "收"
+      }
+    },
+    {
+      "hanzi": "收入",
+      "pinyin": "shōu rù",
+      "english": "to take in",
+      "cantonese": {
+        "jyutping": "sau1 jap6",
+        "hanzi": "收入"
+      }
+    },
+    {
+      "hanzi": "收拾",
+      "pinyin": "shōu shi",
+      "english": "to put in order",
+      "cantonese": {
+        "jyutping": "sau1 sap6",
+        "hanzi": "收拾"
+      }
+    },
+    {
+      "hanzi": "首都",
+      "pinyin": "shǒu dū",
+      "english": "capital (city)",
+      "cantonese": {
+        "jyutping": "sau2 dou1",
+        "hanzi": "首都"
+      }
+    },
+    {
+      "hanzi": "首先",
+      "pinyin": "shǒu xiān",
+      "english": "first (of all)",
+      "cantonese": {
+        "jyutping": "sau2 sin1",
+        "hanzi": "首先"
+      }
+    },
+    {
+      "hanzi": "受不了",
+      "pinyin": "shòu bù liǎo",
+      "english": "unbearable",
+      "cantonese": {
+        "jyutping": "sau6 bat1 liu5",
+        "hanzi": "受不了"
+      }
+    },
+    {
+      "hanzi": "受到",
+      "pinyin": "shòu dào",
+      "english": "to receive",
+      "cantonese": {
+        "jyutping": "sau6 dou3",
+        "hanzi": "受到"
+      }
+    },
+    {
+      "hanzi": "售货员",
+      "pinyin": "shòu huò yuán",
+      "english": "salesperson",
+      "cantonese": {
+        "jyutping": "sau6 fo3 jyun4",
+        "hanzi": "售貨員 (-货员)"
+      }
+    },
+    {
+      "hanzi": "输",
+      "pinyin": "shū",
+      "english": "to lose",
+      "cantonese": {
+        "jyutping": "syu1",
+        "hanzi": "輸 (输)"
+      }
+    },
+    {
+      "hanzi": "熟悉",
+      "pinyin": "shú xī",
+      "english": "to be familiar with",
+      "cantonese": {
+        "jyutping": "suk6 sik1",
+        "hanzi": "熟悉"
+      }
+    },
+    {
+      "hanzi": "数量",
+      "pinyin": "shù liàng",
+      "english": "amount",
+      "cantonese": {
+        "jyutping": "sou3 loeng6",
+        "hanzi": "數量 (数-)"
+      }
+    },
+    {
+      "hanzi": "数字",
+      "pinyin": "shù zì",
+      "english": "numeral",
+      "cantonese": {
+        "jyutping": "sou3 zi6",
+        "hanzi": "數字 (数-)"
+      }
+    },
+    {
+      "hanzi": "帅",
+      "pinyin": "shuài",
+      "english": "handsome",
+      "cantonese": {
+        "jyutping": "seoi3",
+        "hanzi": "帥 (帅)"
+      }
+    },
+    {
+      "hanzi": "顺便",
+      "pinyin": "shùn biàn",
+      "english": "conveniently",
+      "cantonese": {
+        "jyutping": "seon6 bin2",
+        "hanzi": "順便 (顺-)"
+      }
+    },
+    {
+      "hanzi": "顺利",
+      "pinyin": "shùn lì",
+      "english": "smoothly",
+      "cantonese": {
+        "jyutping": "seon6 lei6",
+        "hanzi": "順利 (顺-)"
+      }
+    },
+    {
+      "hanzi": "顺序",
+      "pinyin": "shùn xù",
+      "english": "sequence",
+      "cantonese": {
+        "jyutping": "seon6 zeoi6",
+        "hanzi": "順序 (顺-)"
+      }
+    },
+    {
+      "hanzi": "说明",
+      "pinyin": "shuō míng",
+      "english": "to explain",
+      "cantonese": {
+        "jyutping": "syut3 ming4",
+        "hanzi": "説明 (说-)"
+      }
+    },
+    {
+      "hanzi": "硕士",
+      "pinyin": "shuò shì",
+      "english": "master's degree",
+      "cantonese": {
+        "jyutping": "sek6 si6",
+        "hanzi": "碩士 (硕-)"
+      }
+    },
+    {
+      "hanzi": "死",
+      "pinyin": "sǐ",
+      "english": "to die",
+      "cantonese": {
+        "jyutping": "sei2",
+        "hanzi": "死"
+      }
+    },
+    {
+      "hanzi": "速度",
+      "pinyin": "sù dù",
+      "english": "speed",
+      "cantonese": {
+        "jyutping": "cuk1 dou6",
+        "hanzi": "速度"
+      }
+    },
+    {
+      "hanzi": "塑料袋",
+      "pinyin": "sù liào dài",
+      "english": "plastic bag",
+      "cantonese": {
+        "jyutping": "sou3 liu2 doi2",
+        "hanzi": "塑料袋"
+      }
+    },
+    {
+      "hanzi": "酸",
+      "pinyin": "suān",
+      "english": "sour",
+      "cantonese": {
+        "jyutping": "syun1",
+        "hanzi": "酸"
+      }
+    },
+    {
+      "hanzi": "算",
+      "pinyin": "suàn",
+      "english": "to regard as",
+      "cantonese": {
+        "jyutping": "syun3",
+        "hanzi": "算"
+      }
+    },
+    {
+      "hanzi": "随便",
+      "pinyin": "suí biàn",
+      "english": "as one wishes",
+      "cantonese": {
+        "jyutping": "ceoi4 bin2",
+        "hanzi": "隨便 (随-)"
+      }
+    },
+    {
+      "hanzi": "随着",
+      "pinyin": "suí zhe",
+      "english": "along with",
+      "cantonese": {
+        "jyutping": "ceoi4 zoek6",
+        "hanzi": "隨著 (随着)"
+      }
+    },
+    {
+      "hanzi": "孙子",
+      "pinyin": "sūn zi",
+      "english": "grandson",
+      "cantonese": {
+        "jyutping": "syun1 zi2",
+        "hanzi": "孫子 (孙-)"
+      }
+    },
+    {
+      "hanzi": "所有",
+      "pinyin": "suǒ yǒu",
+      "english": "all",
+      "cantonese": {
+        "jyutping": "so2 jau5",
+        "hanzi": "所有"
+      }
+    },
+    {
+      "hanzi": "抬",
+      "pinyin": "tái",
+      "english": "to lift",
+      "cantonese": {
+        "jyutping": "toi4",
+        "hanzi": "抬"
+      }
+    },
+    {
+      "hanzi": "台",
+      "pinyin": "tái",
+      "english": "typhoon",
+      "cantonese": {
+        "jyutping": "toi4",
+        "hanzi": "台"
+      }
+    },
+    {
+      "hanzi": "态度",
+      "pinyin": "tài du",
+      "english": "manner",
+      "cantonese": {
+        "jyutping": "taai3 dou6",
+        "hanzi": "態度 (态-)"
+      }
+    },
+    {
+      "hanzi": "谈",
+      "pinyin": "tán",
+      "english": "to speak",
+      "cantonese": {
+        "jyutping": "taam4",
+        "hanzi": "談 (谈)"
+      }
+    },
+    {
+      "hanzi": "弹",
+      "pinyin": "tán",
+      "english": "to pluck (a string)",
+      "cantonese": {
+        "jyutping": "daan6",
+        "hanzi": "彈 (弹)"
+      }
+    },
+    {
+      "hanzi": "汤",
+      "pinyin": "tāng",
+      "english": "soup",
+      "cantonese": {
+        "jyutping": "tong1",
+        "hanzi": "湯 (汤)"
+      }
+    },
+    {
+      "hanzi": "躺",
+      "pinyin": "tǎng",
+      "english": "to recline",
+      "cantonese": {
+        "jyutping": "tong2",
+        "hanzi": "躺"
+      }
+    },
+    {
+      "hanzi": "趟",
+      "pinyin": "tàng",
+      "english": "classifier for times",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "䠀 (趟)"
+      }
+    },
+    {
+      "hanzi": "讨论",
+      "pinyin": "tǎo lùn",
+      "english": "to discuss",
+      "cantonese": {
+        "jyutping": "tou2 leon6",
+        "hanzi": "討論 (讨论)"
+      }
+    },
+    {
+      "hanzi": "讨厌",
+      "pinyin": "tǎo yàn",
+      "english": "to dislike",
+      "cantonese": {
+        "jyutping": "tou2 jim3",
+        "hanzi": "討厭 (讨厌)"
+      }
+    },
+    {
+      "hanzi": "特点",
+      "pinyin": "tè diǎn",
+      "english": "characteristic (feature)",
+      "cantonese": {
+        "jyutping": "dak6 dim2",
+        "hanzi": "特點 (-点)"
+      }
+    },
+    {
+      "hanzi": "提供",
+      "pinyin": "tí gōng",
+      "english": "to offer",
+      "cantonese": {
+        "jyutping": "tai4 gung1",
+        "hanzi": "提供"
+      }
+    },
+    {
+      "hanzi": "提前",
+      "pinyin": "tí qián",
+      "english": "to shift to an earlier date",
+      "cantonese": {
+        "jyutping": "tai4 cin4",
+        "hanzi": "提前"
+      }
+    },
+    {
+      "hanzi": "提醒",
+      "pinyin": "tí xǐng",
+      "english": "to remind",
+      "cantonese": {
+        "jyutping": "tai4 seng2",
+        "hanzi": "提醒"
+      }
+    },
+    {
+      "hanzi": "填空",
+      "pinyin": "tián kòng",
+      "english": "to fill a job vacancy",
+      "cantonese": {
+        "jyutping": "tin4 hung1",
+        "hanzi": "填空"
+      }
+    },
+    {
+      "hanzi": "条件",
+      "pinyin": "tiáo jiàn",
+      "english": "condition",
+      "cantonese": {
+        "jyutping": "tiu4 gin2",
+        "hanzi": "條件 (条-)"
+      }
+    },
+    {
+      "hanzi": "停止",
+      "pinyin": "tíng zhǐ",
+      "english": "to stop",
+      "cantonese": {
+        "jyutping": "ting4 zi2",
+        "hanzi": "停止"
+      }
+    },
+    {
+      "hanzi": "挺",
+      "pinyin": "tǐng",
+      "english": "to stick out",
+      "cantonese": {
+        "jyutping": "ting5",
+        "hanzi": "挺"
+      }
+    },
+    {
+      "hanzi": "通过",
+      "pinyin": "tōng guò",
+      "english": "by means of",
+      "cantonese": {
+        "jyutping": "tung1 gwo3",
+        "hanzi": "通過 (-过)"
+      }
+    },
+    {
+      "hanzi": "通知",
+      "pinyin": "tōng zhī",
+      "english": "to notify",
+      "cantonese": {
+        "jyutping": "tung1 zi1",
+        "hanzi": "通知"
+      }
+    },
+    {
+      "hanzi": "同情",
+      "pinyin": "tóng qíng",
+      "english": "to sympathize with",
+      "cantonese": {
+        "jyutping": "tung4 cing4",
+        "hanzi": "同情"
+      }
+    },
+    {
+      "hanzi": "推",
+      "pinyin": "tuī",
+      "english": "to push",
+      "cantonese": {
+        "jyutping": "teoi1",
+        "hanzi": "推"
+      }
+    },
+    {
+      "hanzi": "推迟",
+      "pinyin": "tuī chí",
+      "english": "to postpone",
+      "cantonese": {
+        "jyutping": "teoi1 ci4",
+        "hanzi": "推遲 (-迟)"
+      }
+    },
+    {
+      "hanzi": "脱",
+      "pinyin": "tuō",
+      "english": "to shed",
+      "cantonese": {
+        "jyutping": "tyut3",
+        "hanzi": "脫 (脱)"
+      }
+    },
+    {
+      "hanzi": "袜子",
+      "pinyin": "wà zi",
+      "english": "socks",
+      "cantonese": {
+        "jyutping": "mat6 zi2",
+        "hanzi": "襪子 (袜-)"
+      }
+    },
+    {
+      "hanzi": "完全",
+      "pinyin": "wán quán",
+      "english": "complete",
+      "cantonese": {
+        "jyutping": "jyun4 cyun4",
+        "hanzi": "完全"
+      }
+    },
+    {
+      "hanzi": "往",
+      "pinyin": "wǎng",
+      "english": "to go (in a direction)",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "徃 (往)"
+      }
+    },
+    {
+      "hanzi": "往往",
+      "pinyin": "wǎng wǎng",
+      "english": "often",
+      "cantonese": {
+        "jyutping": "wong5 wong5",
+        "hanzi": "往往"
+      }
+    },
+    {
+      "hanzi": "网球",
+      "pinyin": "wǎng qiú",
+      "english": "tennis",
+      "cantonese": {
+        "jyutping": "mong5 kau4",
+        "hanzi": "網球 (网-)"
+      }
+    },
+    {
+      "hanzi": "网站",
+      "pinyin": "wǎng zhàn",
+      "english": "website",
+      "cantonese": {
+        "jyutping": "mong5 zaam6",
+        "hanzi": "網站 (网-)"
+      }
+    },
+    {
+      "hanzi": "危险",
+      "pinyin": "wēi xiǎn",
+      "english": "danger",
+      "cantonese": {
+        "jyutping": "ngai4 him2",
+        "hanzi": "危險 (-险)"
+      }
+    },
+    {
+      "hanzi": "味道",
+      "pinyin": "wèi dao",
+      "english": "flavor",
+      "cantonese": {
+        "jyutping": "mei6 dou6",
+        "hanzi": "味道"
+      }
+    },
+    {
+      "hanzi": "温度",
+      "pinyin": "wēn dù",
+      "english": "temperature",
+      "cantonese": {
+        "jyutping": "wan1 dou6",
+        "hanzi": "溫度 (温-)"
+      }
+    },
+    {
+      "hanzi": "文章",
+      "pinyin": "wén zhāng",
+      "english": "article",
+      "cantonese": {
+        "jyutping": "man4 zoeng1",
+        "hanzi": "文章"
+      }
+    },
+    {
+      "hanzi": "握手",
+      "pinyin": "wò shǒu",
+      "english": "to shake hands",
+      "cantonese": {
+        "jyutping": "ak1 sau2",
+        "hanzi": "握手"
+      }
+    },
+    {
+      "hanzi": "污染",
+      "pinyin": "wū rǎn",
+      "english": "pollution",
+      "cantonese": {
+        "jyutping": "wu1 jim5",
+        "hanzi": "污染"
+      }
+    },
+    {
+      "hanzi": "无",
+      "pinyin": "wú",
+      "english": "-less",
+      "cantonese": {
+        "jyutping": "mou4",
+        "hanzi": "無 (无)"
+      }
+    },
+    {
+      "hanzi": "无聊",
+      "pinyin": "wú liáo",
+      "english": "bored",
+      "cantonese": {
+        "jyutping": "mou4 liu4",
+        "hanzi": "無聊 (无-)"
+      }
+    },
+    {
+      "hanzi": "无论",
+      "pinyin": "wú lùn",
+      "english": "no matter what or how",
+      "cantonese": {
+        "jyutping": "mou4 leon6",
+        "hanzi": "無論 (无论)"
+      }
+    },
+    {
+      "hanzi": "误会",
+      "pinyin": "wù huì",
+      "english": "to misunderstand",
+      "cantonese": {
+        "jyutping": "ng6 wui6",
+        "hanzi": "誤會 (误会)"
+      }
+    },
+    {
+      "hanzi": "西红柿",
+      "pinyin": "xī hóng shì",
+      "english": "tomato",
+      "cantonese": {
+        "jyutping": "sai1 hung4 ci2",
+        "hanzi": "西紅柿 (-红-)"
+      }
+    },
+    {
+      "hanzi": "吸引",
+      "pinyin": "xī yǐn",
+      "english": "to attract (interest",
+      "cantonese": {
+        "jyutping": "kap1 jan5",
+        "hanzi": "吸引"
+      }
+    },
+    {
+      "hanzi": "洗衣机",
+      "pinyin": "xǐ yī jī",
+      "english": "washer",
+      "cantonese": {
+        "jyutping": "sai2 ji1 gei1",
+        "hanzi": "洗衣機 (--机)"
+      }
+    },
+    {
+      "hanzi": "咸",
+      "pinyin": "xián",
+      "english": "salted",
+      "cantonese": {
+        "jyutping": "haam4",
+        "hanzi": "咸"
+      }
+    },
+    {
+      "hanzi": "现代",
+      "pinyin": "xiàn dài",
+      "english": "modern times",
+      "cantonese": {
+        "jyutping": "jin6 doi6",
+        "hanzi": "現代 (现-)"
+      }
+    },
+    {
+      "hanzi": "羡慕",
+      "pinyin": "xiàn mù",
+      "english": "to envy",
+      "cantonese": {
+        "jyutping": "sin6 mou6",
+        "hanzi": "羨慕 (羡-)"
+      }
+    },
+    {
+      "hanzi": "限制",
+      "pinyin": "xiàn zhì",
+      "english": "to restrict",
+      "cantonese": {
+        "jyutping": "haan6 zai3",
+        "hanzi": "限制"
+      }
+    },
+    {
+      "hanzi": "香",
+      "pinyin": "xiāng",
+      "english": "fragrant",
+      "cantonese": {
+        "jyutping": "hoeng1",
+        "hanzi": "香"
+      }
+    },
+    {
+      "hanzi": "相反",
+      "pinyin": "xiāng fǎn",
+      "english": "opposite",
+      "cantonese": {
+        "jyutping": "soeng1 faan2",
+        "hanzi": "相反"
+      }
+    },
+    {
+      "hanzi": "详细",
+      "pinyin": "xiáng xì",
+      "english": "detailed",
+      "cantonese": {
+        "jyutping": "coeng4 sai3",
+        "hanzi": "詳細 (详细)"
+      }
+    },
+    {
+      "hanzi": "响",
+      "pinyin": "xiǎng",
+      "english": "echo",
+      "cantonese": {
+        "jyutping": "hoeng2",
+        "hanzi": "響 (响)"
+      }
+    },
+    {
+      "hanzi": "消息",
+      "pinyin": "xiāo xi",
+      "english": "news",
+      "cantonese": {
+        "jyutping": "siu1 sik1",
+        "hanzi": "消息"
+      }
+    },
+    {
+      "hanzi": "小说",
+      "pinyin": "xiǎo shuō",
+      "english": "novel",
+      "cantonese": {
+        "jyutping": "siu2 syut3",
+        "hanzi": "小説 (-说)"
+      }
+    },
+    {
+      "hanzi": "笑话",
+      "pinyin": "xiào huà",
+      "english": "joke",
+      "cantonese": {
+        "jyutping": "siu3 waa2",
+        "hanzi": "笑話 (-话)"
+      }
+    },
+    {
+      "hanzi": "效果",
+      "pinyin": "xiào guǒ",
+      "english": "result",
+      "cantonese": {
+        "jyutping": "haau6 gwo2",
+        "hanzi": "效果"
+      }
+    },
+    {
+      "hanzi": "心情",
+      "pinyin": "xīn qíng",
+      "english": "mood",
+      "cantonese": {
+        "jyutping": "sam1 cing4",
+        "hanzi": "心情"
+      }
+    },
+    {
+      "hanzi": "辛苦",
+      "pinyin": "xīn kǔ",
+      "english": "hard",
+      "cantonese": {
+        "jyutping": "san1 fu2",
+        "hanzi": "辛苦"
+      }
+    },
+    {
+      "hanzi": "信任",
+      "pinyin": "xìn rèn",
+      "english": "to trust",
+      "cantonese": {
+        "jyutping": "seon3 jam6",
+        "hanzi": "信任"
+      }
+    },
+    {
+      "hanzi": "信心",
+      "pinyin": "xìn xīn",
+      "english": "confidence",
+      "cantonese": {
+        "jyutping": "seon3 sam1",
+        "hanzi": "信心"
+      }
+    },
+    {
+      "hanzi": "信用卡",
+      "pinyin": "xìn yòng kǎ",
+      "english": "credit card",
+      "cantonese": {
+        "jyutping": "seon3 jung6 kaat1",
+        "hanzi": "信用卡"
+      }
+    },
+    {
+      "hanzi": "兴奋",
+      "pinyin": "xīng fèn",
+      "english": "excited",
+      "cantonese": {
+        "jyutping": "hing1 fan5",
+        "hanzi": "興奮 (兴奋)"
+      }
+    },
+    {
+      "hanzi": "行",
+      "pinyin": "xíng",
+      "english": "to walk",
+      "cantonese": {
+        "jyutping": "hang4",
+        "hanzi": "行"
+      }
+    },
+    {
+      "hanzi": "醒",
+      "pinyin": "xǐng",
+      "english": "to wake up",
+      "cantonese": {
+        "jyutping": "sing2",
+        "hanzi": "醒"
+      }
+    },
+    {
+      "hanzi": "性别",
+      "pinyin": "xìng bié",
+      "english": "gender",
+      "cantonese": {
+        "jyutping": "sing3 bit6",
+        "hanzi": "性別 (-别)"
+      }
+    },
+    {
+      "hanzi": "性格",
+      "pinyin": "xìng gé",
+      "english": "nature",
+      "cantonese": {
+        "jyutping": "sing3 gaak3",
+        "hanzi": "性格"
+      }
+    },
+    {
+      "hanzi": "幸福",
+      "pinyin": "xìng fú",
+      "english": "happiness",
+      "cantonese": {
+        "jyutping": "hang6 fuk1",
+        "hanzi": "幸福"
+      }
+    },
+    {
+      "hanzi": "修",
+      "pinyin": "xiū",
+      "english": "to decorate",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "脩 (修)"
+      }
+    },
+    {
+      "hanzi": "许多",
+      "pinyin": "xǔ duō",
+      "english": "many",
+      "cantonese": {
+        "jyutping": "heoi2 do1",
+        "hanzi": "許多 (许-)"
+      }
+    },
+    {
+      "hanzi": "血",
+      "pinyin": "xuè",
+      "english": "blood",
+      "cantonese": {
+        "jyutping": "hyut3",
+        "hanzi": "血"
+      }
+    },
+    {
+      "hanzi": "压力",
+      "pinyin": "yā lì",
+      "english": "pressure",
+      "cantonese": {
+        "jyutping": "aat3 lik6",
+        "hanzi": "壓力 (压-)"
+      }
+    },
+    {
+      "hanzi": "牙膏",
+      "pinyin": "yá gāo",
+      "english": "toothpaste",
+      "cantonese": {
+        "jyutping": "ngaa4 gou1",
+        "hanzi": "牙膏"
+      }
+    },
+    {
+      "hanzi": "亚洲",
+      "pinyin": "Yà zhōu",
+      "english": "Asia",
+      "cantonese": {
+        "jyutping": "aa3 zau1",
+        "hanzi": "亞洲 (亚-)"
+      }
+    },
+    {
+      "hanzi": "呀",
+      "pinyin": "ya",
+      "english": "(particle equivalent to 啊 after a vowel",
+      "cantonese": {
+        "jyutping": "aa1",
+        "hanzi": "呀"
+      }
+    },
+    {
+      "hanzi": "盐",
+      "pinyin": "yán",
+      "english": "salt",
+      "cantonese": {
+        "jyutping": "jim4",
+        "hanzi": "鹽 (盐)"
+      }
+    },
+    {
+      "hanzi": "严格",
+      "pinyin": "yán gé",
+      "english": "strict",
+      "cantonese": {
+        "jyutping": "jim4 gaak3",
+        "hanzi": "嚴格 (严-)"
+      }
+    },
+    {
+      "hanzi": "严重",
+      "pinyin": "yán zhòng",
+      "english": "grave",
+      "cantonese": {
+        "jyutping": "jim4 zung6",
+        "hanzi": "嚴重 (严-)"
+      }
+    },
+    {
+      "hanzi": "研究生",
+      "pinyin": "yán jiū shēng",
+      "english": "graduate student",
+      "cantonese": {
+        "jyutping": "jin4 gau3 saang1",
+        "hanzi": "研究生"
+      }
+    },
+    {
+      "hanzi": "演出",
+      "pinyin": "yǎn chū",
+      "english": "to act (in a play)",
+      "cantonese": {
+        "jyutping": "jin2 ceot1",
+        "hanzi": "演出"
+      }
+    },
+    {
+      "hanzi": "演员",
+      "pinyin": "yǎn yuán",
+      "english": "actor or actress",
+      "cantonese": {
+        "jyutping": "jin2 jyun4",
+        "hanzi": "演員 (-员)"
+      }
+    },
+    {
+      "hanzi": "阳光",
+      "pinyin": "yáng guāng",
+      "english": "sunshine",
+      "cantonese": {
+        "jyutping": "joeng4 gwong1",
+        "hanzi": "陽光 (阳-)"
+      }
+    },
+    {
+      "hanzi": "养成",
+      "pinyin": "yǎng chéng",
+      "english": "to cultivate",
+      "cantonese": {
+        "jyutping": "joeng5 sing4",
+        "hanzi": "養成 (养-)"
+      }
+    },
+    {
+      "hanzi": "样子",
+      "pinyin": "yàng zi",
+      "english": "appearance",
+      "cantonese": {
+        "jyutping": "joeng6 zi2",
+        "hanzi": "樣子 (样-)"
+      }
+    },
+    {
+      "hanzi": "邀请",
+      "pinyin": "yāo qǐng",
+      "english": "to invite",
+      "cantonese": {
+        "jyutping": "jiu1 cing2",
+        "hanzi": "邀請 (-请)"
+      }
+    },
+    {
+      "hanzi": "钥匙",
+      "pinyin": "yào shi",
+      "english": "key",
+      "cantonese": {
+        "jyutping": "joek6 si4",
+        "hanzi": "鑰匙 (钥-)"
+      }
+    },
+    {
+      "hanzi": "也许",
+      "pinyin": "yě xǔ",
+      "english": "perhaps",
+      "cantonese": {
+        "jyutping": "jaa5 heoi2",
+        "hanzi": "也許 (-许)"
+      }
+    },
+    {
+      "hanzi": "页",
+      "pinyin": "yè",
+      "english": "page",
+      "cantonese": {
+        "jyutping": "jip6",
+        "hanzi": "頁 (页)"
+      }
+    },
+    {
+      "hanzi": "叶子",
+      "pinyin": "yè zi",
+      "english": "foliage",
+      "cantonese": {
+        "jyutping": "jip6 zi2",
+        "hanzi": "葉子 (叶-)"
+      }
+    },
+    {
+      "hanzi": "一切",
+      "pinyin": "yī qiè",
+      "english": "everything",
+      "cantonese": {
+        "jyutping": "jat1 cai3",
+        "hanzi": "一切"
+      }
+    },
+    {
+      "hanzi": "以",
+      "pinyin": "yǐ",
+      "english": "to use",
+      "cantonese": {
+        "jyutping": "ji5",
+        "hanzi": "以"
+      }
+    },
+    {
+      "hanzi": "亿",
+      "pinyin": "yì",
+      "english": "100 million",
+      "cantonese": {
+        "jyutping": "jik1",
+        "hanzi": "億 (亿)"
+      }
+    },
+    {
+      "hanzi": "意见",
+      "pinyin": "yì jiàn",
+      "english": "idea",
+      "cantonese": {
+        "jyutping": "ji3 gin3",
+        "hanzi": "意見 (-见)"
+      }
+    },
+    {
+      "hanzi": "艺术",
+      "pinyin": "yì shù",
+      "english": "art",
+      "cantonese": {
+        "jyutping": "ngai6 seot6",
+        "hanzi": "藝術 (艺术)"
+      }
+    },
+    {
+      "hanzi": "因此",
+      "pinyin": "yīn cǐ",
+      "english": "thus",
+      "cantonese": {
+        "jyutping": "jan1 ci2",
+        "hanzi": "因此"
+      }
+    },
+    {
+      "hanzi": "引起",
+      "pinyin": "yǐn qǐ",
+      "english": "to give rise to",
+      "cantonese": {
+        "jyutping": "jan5 hei2",
+        "hanzi": "引起"
+      }
+    },
+    {
+      "hanzi": "饮料",
+      "pinyin": "yǐn liào",
+      "english": "drink",
+      "cantonese": {
+        "jyutping": "jam2 liu6",
+        "hanzi": "飲料 (饮-)"
+      }
+    },
+    {
+      "hanzi": "印象",
+      "pinyin": "yìn xiàng",
+      "english": "impression",
+      "cantonese": {
+        "jyutping": "jan3 zoeng6",
+        "hanzi": "印象"
+      }
+    },
+    {
+      "hanzi": "赢",
+      "pinyin": "yíng",
+      "english": "to beat",
+      "cantonese": {
+        "jyutping": "jeng4",
+        "hanzi": "贏 (赢)"
+      }
+    },
+    {
+      "hanzi": "硬",
+      "pinyin": "yìng",
+      "english": "hard",
+      "cantonese": {
+        "jyutping": "ngaang6",
+        "hanzi": "硬"
+      }
+    },
+    {
+      "hanzi": "勇敢",
+      "pinyin": "yǒng gǎn",
+      "english": "brave",
+      "cantonese": {
+        "jyutping": "jung5 gam2",
+        "hanzi": "勇敢"
+      }
+    },
+    {
+      "hanzi": "永远",
+      "pinyin": "yǒng yuǎn",
+      "english": "forever",
+      "cantonese": {
+        "jyutping": "wing5 jyun5",
+        "hanzi": "永遠 (-远)"
+      }
+    },
+    {
+      "hanzi": "优点",
+      "pinyin": "yōu diǎn",
+      "english": "merit",
+      "cantonese": {
+        "jyutping": "jau1 dim2",
+        "hanzi": "優點 (优点)"
+      }
+    },
+    {
+      "hanzi": "优秀",
+      "pinyin": "yōu xiù",
+      "english": "outstanding",
+      "cantonese": {
+        "jyutping": "jau1 sau3",
+        "hanzi": "優秀 (优-)"
+      }
+    },
+    {
+      "hanzi": "幽默",
+      "pinyin": "yōu mò",
+      "english": "(loanword) humor",
+      "cantonese": {
+        "jyutping": "jau1 mak6",
+        "hanzi": "幽默"
+      }
+    },
+    {
+      "hanzi": "由",
+      "pinyin": "yóu",
+      "english": "to follow",
+      "cantonese": {
+        "jyutping": "jau4",
+        "hanzi": "由"
+      }
+    },
+    {
+      "hanzi": "由于",
+      "pinyin": "yóu yú",
+      "english": "due to",
+      "cantonese": {
+        "jyutping": "jau4 jyu1",
+        "hanzi": "由於 (-于)"
+      }
+    },
+    {
+      "hanzi": "尤其",
+      "pinyin": "yóu qí",
+      "english": "especially",
+      "cantonese": {
+        "jyutping": "jau4 kei4",
+        "hanzi": "尤其"
+      }
+    },
+    {
+      "hanzi": "有趣",
+      "pinyin": "yǒu qù",
+      "english": "interesting",
+      "cantonese": {
+        "jyutping": "jau5 ceoi3",
+        "hanzi": "有趣"
+      }
+    },
+    {
+      "hanzi": "友好",
+      "pinyin": "yǒu hǎo",
+      "english": "friendly",
+      "cantonese": {
+        "jyutping": "jau5 hou2",
+        "hanzi": "友好"
+      }
+    },
+    {
+      "hanzi": "友谊",
+      "pinyin": "yǒu yì",
+      "english": "companionship",
+      "cantonese": {
+        "jyutping": "jau5 ji4",
+        "hanzi": "友誼 (-谊)"
+      }
+    },
+    {
+      "hanzi": "愉快",
+      "pinyin": "yú kuài",
+      "english": "cheerful",
+      "cantonese": {
+        "jyutping": "jyu4 faai3",
+        "hanzi": "愉快"
+      }
+    },
+    {
+      "hanzi": "于是",
+      "pinyin": "yú shì",
+      "english": "thereupon",
+      "cantonese": {
+        "jyutping": "jyu1  si6",
+        "hanzi": "於是 (于-)"
+      }
+    },
+    {
+      "hanzi": "与",
+      "pinyin": "yǔ",
+      "english": "and",
+      "cantonese": {
+        "jyutping": "jyu5",
+        "hanzi": "與 (与)"
+      }
+    },
+    {
+      "hanzi": "语法",
+      "pinyin": "yǔ fǎ",
+      "english": "grammar",
+      "cantonese": {
+        "jyutping": "jyu5 faat3",
+        "hanzi": "語法 (语-)"
+      }
+    },
+    {
+      "hanzi": "语言",
+      "pinyin": "yǔ yán",
+      "english": "language",
+      "cantonese": {
+        "jyutping": "jyu5 jin4",
+        "hanzi": "語言 (语-)"
+      }
+    },
+    {
+      "hanzi": "羽毛球",
+      "pinyin": "yǔ máo qiú",
+      "english": "shuttlecock",
+      "cantonese": {
+        "jyutping": "jyu5 mou4 kau4",
+        "hanzi": "羽毛球"
+      }
+    },
+    {
+      "hanzi": "预习",
+      "pinyin": "yù xí",
+      "english": "to prepare a lesson",
+      "cantonese": {
+        "jyutping": "jyu6 zaap6",
+        "hanzi": "預習 (预习)"
+      }
+    },
+    {
+      "hanzi": "圆",
+      "pinyin": "yuán",
+      "english": "circle",
+      "cantonese": {
+        "jyutping": "jyun4",
+        "hanzi": "圓 (圆)"
+      }
+    },
+    {
+      "hanzi": "原来",
+      "pinyin": "yuán lái",
+      "english": "original",
+      "cantonese": {
+        "jyutping": "jyun4 loi4",
+        "hanzi": "原來 (-来)"
+      }
+    },
+    {
+      "hanzi": "原谅",
+      "pinyin": "yuán liàng",
+      "english": "to excuse",
+      "cantonese": {
+        "jyutping": "jyun4 loeng6",
+        "hanzi": "原諒 (-谅)"
+      }
+    },
+    {
+      "hanzi": "原因",
+      "pinyin": "yuán yīn",
+      "english": "cause",
+      "cantonese": {
+        "jyutping": "jyun4 jan1",
+        "hanzi": "原因"
+      }
+    },
+    {
+      "hanzi": "约会",
+      "pinyin": "yuē huì",
+      "english": "appointment",
+      "cantonese": {
+        "jyutping": "joek3 wui6",
+        "hanzi": "約會 (约会)"
+      }
+    },
+    {
+      "hanzi": "阅读",
+      "pinyin": "yuè dú",
+      "english": "to read",
+      "cantonese": {
+        "jyutping": "jyut6 duk6",
+        "hanzi": "閲讀 (阅读)"
+      }
+    },
+    {
+      "hanzi": "允许",
+      "pinyin": "yǔn xǔ",
+      "english": "to permit",
+      "cantonese": {
+        "jyutping": "wan5 heoi2",
+        "hanzi": "允許 (-许)"
+      }
+    },
+    {
+      "hanzi": "杂志",
+      "pinyin": "zá zhì",
+      "english": "magazine",
+      "cantonese": {
+        "jyutping": "zaap6 zi3",
+        "hanzi": "雜誌 (杂志)"
+      }
+    },
+    {
+      "hanzi": "咱们",
+      "pinyin": "zán men",
+      "english": "we or us (including both the speaker and the person(s) spoken to)",
+      "cantonese": {
+        "jyutping": "",
+        "hanzi": "咱們 (-们)"
+      }
+    },
+    {
+      "hanzi": "暂时",
+      "pinyin": "zàn shí",
+      "english": "temporary",
+      "cantonese": {
+        "jyutping": "zaam6 si4",
+        "hanzi": "暫時 (暂时)"
+      }
+    },
+    {
+      "hanzi": "脏",
+      "pinyin": "zāng",
+      "english": "dirty",
+      "cantonese": {
+        "jyutping": "zong1",
+        "hanzi": "髒 (脏)"
+      }
+    },
+    {
+      "hanzi": "责任",
+      "pinyin": "zé rèn",
+      "english": "responsibility",
+      "cantonese": {
+        "jyutping": "zaak3 jam6",
+        "hanzi": "責任 (责-)"
+      }
+    },
+    {
+      "hanzi": "增加",
+      "pinyin": "zēng jiā",
+      "english": "to raise",
+      "cantonese": {
+        "jyutping": "zang1 gaa1",
+        "hanzi": "增加"
+      }
+    },
+    {
+      "hanzi": "增长",
+      "pinyin": "zēng zhǎng",
+      "english": "to grow",
+      "cantonese": {
+        "jyutping": "zang1 zoeng2",
+        "hanzi": "增長 (-长)"
+      }
+    },
+    {
+      "hanzi": "窄",
+      "pinyin": "zhǎi",
+      "english": "narrow",
+      "cantonese": {
+        "jyutping": "zaak3",
+        "hanzi": "窄"
+      }
+    },
+    {
+      "hanzi": "招聘",
+      "pinyin": "zhāo pìn",
+      "english": "recruitment",
+      "cantonese": {
+        "jyutping": "ziu1 ping3",
+        "hanzi": "招聘"
+      }
+    },
+    {
+      "hanzi": "真正",
+      "pinyin": "zhēn zhèng",
+      "english": "genuine",
+      "cantonese": {
+        "jyutping": "zan1 zing3",
+        "hanzi": "真正"
+      }
+    },
+    {
+      "hanzi": "整理",
+      "pinyin": "zhěng lǐ",
+      "english": "to arrange",
+      "cantonese": {
+        "jyutping": "zing2 lei5",
+        "hanzi": "整理"
+      }
+    },
+    {
+      "hanzi": "整齐",
+      "pinyin": "zhěng qí",
+      "english": "orderly",
+      "cantonese": {
+        "jyutping": "zing2 cai4",
+        "hanzi": "整齊 (-齐)"
+      }
+    },
+    {
+      "hanzi": "正常",
+      "pinyin": "zhèng cháng",
+      "english": "regular",
+      "cantonese": {
+        "jyutping": "zing3 soeng4",
+        "hanzi": "正常"
+      }
+    },
+    {
+      "hanzi": "正好",
+      "pinyin": "zhèng hǎo",
+      "english": "just (in time)",
+      "cantonese": {
+        "jyutping": "zing3 hou2",
+        "hanzi": "正好"
+      }
+    },
+    {
+      "hanzi": "正确",
+      "pinyin": "zhèng què",
+      "english": "correct",
+      "cantonese": {
+        "jyutping": "zing3 kok3",
+        "hanzi": "正確 (-确)"
+      }
+    },
+    {
+      "hanzi": "正式",
+      "pinyin": "zhèng shì",
+      "english": "formal",
+      "cantonese": {
+        "jyutping": "zing3 sik1",
+        "hanzi": "正式"
+      }
+    },
+    {
+      "hanzi": "证明",
+      "pinyin": "zhèng míng",
+      "english": "proof",
+      "cantonese": {
+        "jyutping": "zing3 ming4",
+        "hanzi": "證明 (证-)"
+      }
+    },
+    {
+      "hanzi": "之",
+      "pinyin": "zhī",
+      "english": "(possessive particle",
+      "cantonese": {
+        "jyutping": "zi1",
+        "hanzi": "之"
+      }
+    },
+    {
+      "hanzi": "支持",
+      "pinyin": "zhī chí",
+      "english": "to be in favor of",
+      "cantonese": {
+        "jyutping": "zi1 ci4",
+        "hanzi": "支持"
+      }
+    },
+    {
+      "hanzi": "知识",
+      "pinyin": "zhī shi",
+      "english": "intellectual",
+      "cantonese": {
+        "jyutping": "zi1 sik1",
+        "hanzi": "知識 (-识)"
+      }
+    },
+    {
+      "hanzi": "直接",
+      "pinyin": "zhí jiē",
+      "english": "direct",
+      "cantonese": {
+        "jyutping": "zik6 zip3",
+        "hanzi": "直接"
+      }
+    },
+    {
+      "hanzi": "值得",
+      "pinyin": "zhí de",
+      "english": "to be worth",
+      "cantonese": {
+        "jyutping": "zik6 dak1",
+        "hanzi": "值得"
+      }
+    },
+    {
+      "hanzi": "职业",
+      "pinyin": "zhí yè",
+      "english": "occupation",
+      "cantonese": {
+        "jyutping": "zik1 jip6",
+        "hanzi": "職業 (职业)"
+      }
+    },
+    {
+      "hanzi": "植物",
+      "pinyin": "zhí wù",
+      "english": "botanical",
+      "cantonese": {
+        "jyutping": "zik6 mat6",
+        "hanzi": "植物"
+      }
+    },
+    {
+      "hanzi": "指",
+      "pinyin": "zhǐ",
+      "english": "finger",
+      "cantonese": {
+        "jyutping": "zi2",
+        "hanzi": "指"
+      }
+    },
+    {
+      "hanzi": "只好",
+      "pinyin": "zhǐ hǎo",
+      "english": "without any better option",
+      "cantonese": {
+        "jyutping": "zi2 hou2",
+        "hanzi": "只好"
+      }
+    },
+    {
+      "hanzi": "只要",
+      "pinyin": "zhǐ yào",
+      "english": "if only",
+      "cantonese": {
+        "jyutping": "zi2 jiu3",
+        "hanzi": "只要"
+      }
+    },
+    {
+      "hanzi": "制造",
+      "pinyin": "zhì zào",
+      "english": "to manufacture",
+      "cantonese": {
+        "jyutping": "zai3 zou6",
+        "hanzi": "製造 (制-)"
+      }
+    },
+    {
+      "hanzi": "至少",
+      "pinyin": "zhì shǎo",
+      "english": "at least",
+      "cantonese": {
+        "jyutping": "zi3 siu2",
+        "hanzi": "至少"
+      }
+    },
+    {
+      "hanzi": "质量",
+      "pinyin": "zhì liàng",
+      "english": "quality",
+      "cantonese": {
+        "jyutping": "zat1 loeng6",
+        "hanzi": "質量 (质-)"
+      }
+    },
+    {
+      "hanzi": "中文",
+      "pinyin": "Zhōng wén",
+      "english": "Chinese",
+      "cantonese": {
+        "jyutping": "zung1 man4",
+        "hanzi": "中文"
+      }
+    },
+    {
+      "hanzi": "重点",
+      "pinyin": "zhòng diǎn",
+      "english": "important point",
+      "cantonese": {
+        "jyutping": "zung6 dim2",
+        "hanzi": "重點 (-点)"
+      }
+    },
+    {
+      "hanzi": "重视",
+      "pinyin": "zhòng shì",
+      "english": "to attach importance to sth",
+      "cantonese": {
+        "jyutping": "zung6 si6",
+        "hanzi": "重視 (-视)"
+      }
+    },
+    {
+      "hanzi": "周围",
+      "pinyin": "zhōu wéi",
+      "english": "surroundings",
+      "cantonese": {
+        "jyutping": "zau1 wai4",
+        "hanzi": "周圍 (-围)"
+      }
+    },
+    {
+      "hanzi": "猪",
+      "pinyin": "zhū",
+      "english": "hog",
+      "cantonese": {
+        "jyutping": "zyu1",
+        "hanzi": "豬 (猪)"
+      }
+    },
+    {
+      "hanzi": "逐渐",
+      "pinyin": "zhú jiàn",
+      "english": "gradually",
+      "cantonese": {
+        "jyutping": "zuk6 zim6",
+        "hanzi": "逐漸 (-渐)"
+      }
+    },
+    {
+      "hanzi": "主动",
+      "pinyin": "zhǔ dòng",
+      "english": "to take the initiative",
+      "cantonese": {
+        "jyutping": "zyu2 dung6",
+        "hanzi": "主動 (-动)"
+      }
+    },
+    {
+      "hanzi": "主意",
+      "pinyin": "zhǔ yi",
+      "english": "plan",
+      "cantonese": {
+        "jyutping": "zyu2 ji3",
+        "hanzi": "主意"
+      }
+    },
+    {
+      "hanzi": "祝贺",
+      "pinyin": "zhù hè",
+      "english": "to congratulate",
+      "cantonese": {
+        "jyutping": "zuk1 ho6",
+        "hanzi": "祝賀 (-贺)"
+      }
+    },
+    {
+      "hanzi": "著名",
+      "pinyin": "zhù míng",
+      "english": "famous",
+      "cantonese": {
+        "jyutping": "zyu3 ming4",
+        "hanzi": "著名"
+      }
+    },
+    {
+      "hanzi": "专门",
+      "pinyin": "zhuān mén",
+      "english": "specialist",
+      "cantonese": {
+        "jyutping": "zyun1 mun4",
+        "hanzi": "專門 (专门)"
+      }
+    },
+    {
+      "hanzi": "专业",
+      "pinyin": "zhuān yè",
+      "english": "specialty",
+      "cantonese": {
+        "jyutping": "zyun1 jip6",
+        "hanzi": "專業 (专业)"
+      }
+    },
+    {
+      "hanzi": "赚",
+      "pinyin": "zhuàn",
+      "english": "to earn",
+      "cantonese": {
+        "jyutping": "zaan6",
+        "hanzi": "賺 (赚)"
+      }
+    },
+    {
+      "hanzi": "撞",
+      "pinyin": "zhuàng",
+      "english": "to hit",
+      "cantonese": {
+        "jyutping": "zong6",
+        "hanzi": "撞"
+      }
+    },
+    {
+      "hanzi": "准确",
+      "pinyin": "zhǔn què",
+      "english": "accurate",
+      "cantonese": {
+        "jyutping": "zeon2 kok3",
+        "hanzi": "準確 (准确)"
+      }
+    },
+    {
+      "hanzi": "准时",
+      "pinyin": "zhǔn shí",
+      "english": "on time",
+      "cantonese": {
+        "jyutping": "zeon2 si4",
+        "hanzi": "準時 (准时)"
+      }
+    },
+    {
+      "hanzi": "仔细",
+      "pinyin": "zǐ xì",
+      "english": "careful",
+      "cantonese": {
+        "jyutping": "zi2 sai3",
+        "hanzi": "仔細 (-细)"
+      }
+    },
+    {
+      "hanzi": "自然",
+      "pinyin": "zì rán",
+      "english": "nature",
+      "cantonese": {
+        "jyutping": "zi6 jin4",
+        "hanzi": "自然"
+      }
+    },
+    {
+      "hanzi": "总结",
+      "pinyin": "zǒng jié",
+      "english": "to sum up",
+      "cantonese": {
+        "jyutping": "zung2 git3",
+        "hanzi": "總結 (总结)"
+      }
+    },
+    {
+      "hanzi": "租",
+      "pinyin": "zū",
+      "english": "to hire",
+      "cantonese": {
+        "jyutping": "zou1",
+        "hanzi": "租"
+      }
+    },
+    {
+      "hanzi": "组成",
+      "pinyin": "zǔ chéng",
+      "english": "to form",
+      "cantonese": {
+        "jyutping": "zou2 sing4",
+        "hanzi": "組成 (组-)"
+      }
+    },
+    {
+      "hanzi": "组织",
+      "pinyin": "zǔ zhī",
+      "english": "to organize",
+      "cantonese": {
+        "jyutping": "zou2 zik1",
+        "hanzi": "組織 (组织)"
+      }
+    },
+    {
+      "hanzi": "嘴",
+      "pinyin": "zuǐ",
+      "english": "mouth",
+      "cantonese": {
+        "jyutping": "zeoi2",
+        "hanzi": "嘴"
+      }
+    },
+    {
+      "hanzi": "最好",
+      "pinyin": "zuì hǎo",
+      "english": "best",
+      "cantonese": {
+        "jyutping": "zeoi3 hou2",
+        "hanzi": "最好"
+      }
+    },
+    {
+      "hanzi": "最后",
+      "pinyin": "zuì hòu",
+      "english": "final",
+      "cantonese": {
+        "jyutping": "zeoi3 hau6",
+        "hanzi": "最後 (-后)"
+      }
+    },
+    {
+      "hanzi": "尊重",
+      "pinyin": "zūn zhòng",
+      "english": "to esteem",
+      "cantonese": {
+        "jyutping": "zyun1 zung6",
+        "hanzi": "尊重"
+      }
+    },
+    {
+      "hanzi": "做生意",
+      "pinyin": "zuò shēng yì",
+      "english": "to do business",
+      "cantonese": {
+        "jyutping": "zou6 saang1 ji3",
+        "hanzi": "做生意"
+      }
+    },
+    {
+      "hanzi": "座",
+      "pinyin": "zuò",
+      "english": "seat",
+      "cantonese": {
+        "jyutping": "zo6",
+        "hanzi": "座"
+      }
+    },
+    {
+      "hanzi": "座位",
+      "pinyin": "zuò wèi",
+      "english": "seat",
+      "cantonese": {
+        "jyutping": "zo6 wai2",
+        "hanzi": "座位"
+      }
+    },
+    {
+      "hanzi": "作者",
+      "pinyin": "zuò zhě",
+      "english": "author",
+      "cantonese": {
+        "jyutping": "zok3 ze2",
+        "hanzi": "作者"
+      }
+    }
+]
