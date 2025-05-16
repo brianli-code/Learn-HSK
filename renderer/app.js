@@ -3,27 +3,34 @@ let currentIndex = 0
 let score = 0
 let totalQuestions = 0
 let currentQuizKeyHandler = null
+let currentHSK = 3
 
 async function loadHSKData() {
-  const resp = await fetch('./vocab/hsk3.json')
-  console.log("Loading HSK data from fetch")
+  const resp = await fetch(`./vocab/hsk${currentHSK}.json`)
+  console.log(`Loading HSK data for level ${currentHSK} from fetch`)
   if (!resp.ok) throw new Error(`Could not load HSK data: ${resp.status}`)
   return resp.json()
 }
 
+function toggleHSK() {
+  currentHSK = currentHSK === 3 ? 4 : 3;
+  document.getElementById('change-hsk-btn').textContent = `Switch to HSK ${currentHSK}`;
+  loadHSKData().then(data => {
+    hskData = data;
+    console.log(`HSK data loaded for level ${currentHSK}`);
+  });
+}
+
 function applyTheme(theme) {
-  const isDark = theme === 'dark';
-  document.documentElement.classList.toggle('dark', isDark);
-  const btn = document.getElementById('theme-toggle');
-  btn.textContent = isDark ? '☀️ Light Mode' : '🌙 Dark Mode';
+  document.documentElement.classList.toggle('dark', theme === 'dark');
+  document.getElementById('theme-toggle').textContent = theme === 'dark' ? 'Light Mode' : 'Dark Mode';
 }
 
 /** Flip theme and persist choice */
 function toggleTheme() {
-  const isCurrentlyDark = document.documentElement.classList.contains('dark');
-  const next = isCurrentlyDark ? 'light' : 'dark';
-  applyTheme(next);
-  localStorage.setItem('theme', next);
+  const nextTheme = document.documentElement.classList.contains('dark') ? 'light' : 'dark';
+  applyTheme(nextTheme);
+  localStorage.setItem('theme', nextTheme);
 }
 
 function updateScore() {
@@ -43,13 +50,13 @@ function startFlashcards() {
     card.textContent = item.hanzi
     card.onclick = () => {
       card.innerHTML = `
-        <strong>${item.hanzi}</strong><br>
+        ${item.hanzi}<br>
 
         <div class="definition-row">
           <span>Mandarin: ${item.pinyin} – ${item.english}</span>
           <button
             class="audio-btn"
-            onclick="event.stopPropagation(); playAudio('${item.hanzi}')"
+            onclick="event.stopPropagation(); playAudio(${currentHSK}, '${item.hanzi}')"
           >🔊</button>
         </div>
 
@@ -57,7 +64,7 @@ function startFlashcards() {
           <span>Cantonese: ${item.cantonese.hanzi} (${item.cantonese.jyutping})</span>
           <button
             class="audio-btn"
-            onclick="event.stopPropagation(); playAudio('${item.cantonese.hanzi}')"
+            onclick="event.stopPropagation(); playAudio(${currentHSK}, '${item.cantonese.hanzi}')"
           >🔊</button>
         </div>
       `
@@ -98,7 +105,7 @@ function startQuiz() {
         <span>${item.hanzi} – ${item.pinyin}</span>
         <button
           class="audio-btn"
-          onclick="event.stopPropagation(); playAudio('${item.hanzi}')"
+          onclick="event.stopPropagation(); playAudio(${currentHSK}, '${item.hanzi}')"
         >🔊</button>
       </div>
 
@@ -106,7 +113,7 @@ function startQuiz() {
         <span>Cantonese: ${item.cantonese.hanzi} (${item.cantonese.jyutping})</span>
         <button
           class="audio-btn"
-          onclick="event.stopPropagation(); playAudio('${item.cantonese.hanzi}')"
+          onclick="event.stopPropagation(); playAudio(${currentHSK}, '${item.cantonese.hanzi}')"
         >🔊</button>
         </div>
     </div>
@@ -176,8 +183,8 @@ function checkAnswer(selected, correct) {
   retryButton.focus()
 }
 
-async function playAudio(filename) {
-  const audio = new Audio(`./sounds/${filename}.mp3`);
+async function playAudio(hsk_version, filename) {
+  const audio = new Audio(`./sounds/hsk${hsk_version}/${filename}.mp3`);
   try {
     await audio.play();
   } catch (err) {
@@ -200,4 +207,6 @@ document.addEventListener('DOMContentLoaded', async () => {
           .addEventListener('click', startFlashcards);
   document.getElementById('quiz-btn')
           .addEventListener('click', startQuiz);
+  document.getElementById('change-hsk-btn')
+          .addEventListener('click', toggleHSK);
 });
