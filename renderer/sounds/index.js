@@ -1,16 +1,23 @@
 const fs   = require('fs');
 const path = require('path');
 
-// read all .mp3 files in this folder
-const files = fs
-  .readdirSync(__dirname)
-  .filter(f => f.toLowerCase().endsWith('.mp3'));
+const scan = dir =>
+  fs
+    .readdirSync(dir)
+    .filter(f => f.toLowerCase().endsWith('.mp3'))
+    .map(f => ({ dir, file: f }));
 
-// build an object keyed by the basename (without extension)
-const sounds = files.reduce((obj, file) => {
+// scan root + both sub-folders
+const all = [
+  ...scan(__dirname),
+  ...scan(path.join(__dirname, 'hsk3')),
+  ...scan(path.join(__dirname, 'hsk4')),
+];
+
+const sounds = all.reduce((o, { dir, file }) => {
   const key = path.basename(file, '.mp3');
-  obj[key] = file;
-  return obj;
+  o[key] = path.relative(__dirname, path.join(dir, file));
+  return o;
 }, {});
 
 module.exports = sounds;
