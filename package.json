@@ -1,17 +1,61 @@
 {
     "name": "hsk3-electron-app",
     "version": "1.0.0",
+    "description": "HSK 3 Flashcards & Quiz",
     "main": "main.js",
     "scripts": {
-        "start": "electron ."
+        "start": "electron .",
+        "dist": "electron-builder"
     },
     "devDependencies": {
-        "electron": "^27.0.0"
+        "electron": "^36.2.1",
+        "electron-builder": "^26.0.12"
     },
     "dependencies": {
         "@google-cloud/text-to-speech": "^6.0.1",
         "@google-cloud/translate": "^9.0.1",
         "formdata-polyfill": "^4.0.10",
         "node-fetch": "^2.7.0"
+    },
+    "build": {
+        "appId": "com.yourname.learnhsk",
+        "productName": "Learn-HSK",
+        "directories": {
+            "output": "dist",
+            "buildResources": "build"
+        },
+        "files": [
+            "main.js",
+            "package.json",
+            "renderer/**/*"
+        ],
+        "win": {
+            "icon": "build/icon.ico",
+            "target": [
+                "nsis"
+            ]
+        },
+        "nsis": {
+            "oneClick": false,
+            "perMachine": false,
+            "allowToChangeInstallationDirectory": true,
+            "createDesktopShortcut": true,
+            "createStartMenuShortcut": true,
+            "shortcutName": "Learn-HSK"
+        },
+        "mac": {
+            "icon": "build/icon.icns",
+            "target": [
+                "dmg",
+                "zip"
+            ]
+        },
+        "linux": {
+            "icon": "build/png",
+            "target": [
+                "AppImage",
+                "deb"
+            ]
+        }
     }
 }
