@@ -79,3 +79,16 @@ button {
   --card-bg:       #1e1e1e;
   --card-border:   #444444;
 }
+
+.motivation {
+  padding: 1em;
+  margin-bottom: 1em;
+  font-style: italic;
+}
+
+.close-btn {
+  float: right;
+  cursor: pointer;
+  font-size: 1.2em;
+  color: #000000;
+}

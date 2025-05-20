@@ -117,7 +117,7 @@ function startQuiz() {
         >🔊</button>
         </div>
     </div>
-    ` + shuffled.map((opt,i) => `
+    ` + shuffled.map((opt, i) => `
       <button class="quiz-option"
               onclick="checkAnswer('${opt}', '${correct}')">
               ${opt}
@@ -192,16 +192,60 @@ async function playAudio(hsk_version, filename) {
   }
 }
 
+async function loadMotivation() {
+  const today = new Date().toISOString().slice(0,10);
+  let lastDate = localStorage.getItem('lastLoginDate');
+  let streak = Number(localStorage.getItem('currentStreak') || 0);
+
+  // update streak
+  if (lastDate === today) {
+    // already counted today
+  } else if (
+    lastDate
+    && new Date(today) - new Date(lastDate) === 24*60*60*1000
+  ) {
+    // yesterday → continue streak
+    streak += 1;
+  } else {
+    // gap or first run → reset
+    streak = 1;
+  }
+
+  // persist
+  localStorage.setItem('lastLoginDate', today);
+  localStorage.setItem('currentStreak', streak);
+
+  // load motivational quotes
+  const resp = await fetch('./data/motivations.json');
+  const quotes = await resp.json();
+  const quote  = quotes[Math.floor(Math.random() * quotes.length)];
+
+  // render banner
+  const banner = document.getElementById('motivation-banner');
+  // <strong>“${quote}”</strong> 
+  banner.innerHTML = `
+    <span id="close-banner" class="close-btn">✖</span>
+    <div class="streak">🔥 Current streak: ${streak} day${streak > 1 ? 's' : ''}</div>
+  `;
+
+  // event listener to close the banner
+  document.getElementById('close-banner').addEventListener('click', () => {
+    banner.style.display = 'none';
+  });
+}
+
 document.addEventListener('DOMContentLoaded', async () => {
-  // 1) Apply saved theme
+  // apply saved theme
   const saved = localStorage.getItem('theme') || 'light';
   applyTheme(saved);
 
-  // 2) Wire theme-toggle button
+  loadMotivation();
+
+  // wire theme-toggle button
   document.getElementById('theme-toggle')
           .addEventListener('click', toggleTheme);
 
-  // 3) Load data & wire up quiz/flashcard
+  // load data & wire up quiz/flashcard
   hskData = await loadHSKData();
   document.getElementById('flashcard-btn')
           .addEventListener('click', startFlashcards);
