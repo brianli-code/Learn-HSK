@@ -5,22 +5,34 @@ This is a flashcard and quiz application designed to help users learn vocabulary
 ## Instructions to Run the App
 
 1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/brianli-code/Learn-HSK.git
-   cd Learn-HSK
-   ```
+    ```bash
+    git clone https://github.com/brianli-code/Learn-HSK.git
+    cd Learn-HSK
+    ```
 
 2. **Install Dependencies**: 
-   Make sure you have [Node.js](https://nodejs.org/en) installed. Then run:
-   ```bash
-   npm install
-   ```
+    Make sure you have [Node.js](https://nodejs.org/en) installed. Then run:
+    ```bash
+    npm install
+    ```
 
 3. **Start the Application**: 
-   Use the following command to start the app:
-   ```bash
-   npm run start
+    Run the following command to start the app:
+    ```bash
+        npm run start
    ```
+
+4. **If you want to build the application**:
+   - MacOS:
+        1. Open in Xcode
+        2. Click build
+
+   - Windows or Linux:
+       ```bash
+       npm run dist
+       cd dist/win-unpacked
+       ./Learn-HSK.exe
+       ```
 
 ## Functionality To Add
 - [x] audio playback for both modes
