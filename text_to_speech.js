@@ -1,18 +1,20 @@
-// 1) Polyfill a global Blob/FormData for gRPC/auth plugins:
+// Polyfill a global Blob/FormData for gRPC/auth plugins:
 // require('formdata-polyfill/umd.min.js');
 
-// 2) Polyfill a global Headers constructor for gRPC/Gaxios:
+// Polyfill a global Headers constructor for gRPC/Gaxios:
 const fetch = require('node-fetch');
 global.Headers = fetch.Headers;
 
-// 3) Now import and use the Text‑to‑Speech client
+// Now import and use the Text‑to‑Speech client
 const textToSpeech = require('@google-cloud/text-to-speech');
 const { writeFile } = require('node:fs/promises');
 
 const client = new textToSpeech.TextToSpeechClient();
 
-const vocab = require("./renderer/vocab/hsk3.json")
-const sounds = require("./renderer/sounds")
+// change depending on HSK level
+const hsk_version = 4
+const vocab = require(`./renderer/vocab/hsk${hsk_version}.json`)
+const sounds = require(`./renderer/sounds`)
 
 async function quickStart() {
   for (const entry of vocab) {
@@ -29,7 +31,7 @@ async function quickStart() {
             voice: { languageCode: 'zh-CN', ssmlGender: 'NEUTRAL' },
             audioConfig: { audioEncoding: 'MP3' },
         });
-        await writeFile(`renderer/sounds/${mandoFilename}`, mandarinRes.audioContent, 'binary');
+        await writeFile(`renderer/sounds/hsk${hsk_version}/${mandoFilename}`, mandarinRes.audioContent, 'binary');
         console.log(`Audio content written to file: ${mandoFilename}`)
 
         // generate the cantonese audio file
@@ -41,11 +43,10 @@ async function quickStart() {
             audioConfig: { audioEncoding: 'MP3' },
         });
 
-        await writeFile(`renderer/sounds/${cantoFilename}`, cantoRes.audioContent, 'binary');
+        await writeFile(`renderer/sounds/hsk${hsk_version}/${cantoFilename}`, cantoRes.audioContent, 'binary');
         console.log(`Audio content written to file: ${cantoFilename}`)
         }
     }
 }
 
-// Call without top‑level await (CommonJS):
 quickStart().catch(console.error);
