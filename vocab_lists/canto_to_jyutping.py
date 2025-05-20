@@ -33,9 +33,11 @@ def get_canto(word):
     
     tag = small_tags[0]
     print("tag: ", tag)
+    
     # Get the <strong> inside the correct <small>
     strong_tag = tag.find("strong")
     print("strong tag: ", strong_tag)
+    
     jyutping = ''
     if strong_tag:
         # Build jyutping with tone numbers
@@ -54,14 +56,17 @@ def get_canto(word):
 
 # print(get_canto("愛好"))  # Expected: oi3 hou3
 
-def build_json(csv_path="./hsk_csv/hsk3.csv", output_path="./hsk3_with_cantonese.json"):
+def build_json(hsk_version):
+    csv_path = f"./hsk_csv/hsk{hsk_version}.csv"
+    output_path = f"./hsk{hsk_version}_with_cantonese.json"
     results = []
     
     with open(csv_path, encoding='utf-8') as f:
         reader = csv.reader(f)
         for row in reader:
+            # skip malformed lines
             if len(row) < 3:
-                continue  # skip malformed lines
+                continue
             hanzi, pinyin, english = row[0].strip(), row[1].strip(), row[2].strip()
 
             # Get Cantonese info
@@ -86,4 +91,4 @@ def build_json(csv_path="./hsk_csv/hsk3.csv", output_path="./hsk3_with_cantonese
 
     print(f"✅ Saved {len(results)} entries to {output_path}")
 
-build_json()
+build_json(hsk_version=4)
