@@ -21,6 +21,7 @@ function startStopwatch() {
 function stopStopwatch() {
   if (stopwatchInterval) {
     clearInterval(stopwatchInterval);
+    document.getElementById('stopwatch').style.display = 'none';
     stopwatchInterval = null;
   }
 }
@@ -122,7 +123,7 @@ function startFlashcards() {
 }
 
 function startQuiz() {
-  document.getElementById('stopwatch').style.display = 'block';
+  document.getElementById('stopwatch').style.display = 'inline'
   startStopwatch();
 
   // if we left an old handler around, remove it
