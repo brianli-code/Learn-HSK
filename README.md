@@ -40,7 +40,9 @@ This is a flashcard and quiz application designed to help users learn vocabulary
 - [x] dark mode
 - [x] add keyboard controls to quiz mode (1 to 4)
 - [x] stopwatch in quiz mode
-- [x] tailwind and shadcn refactor
+- [x] add tailwind
+- [] typescript refactor
+- [] shadcn, react, next.js refactor
 - [ ] search bar for flashcards
 - [ ] add AI integration to flashcards and quizzes
 - [ ] media integration to express interest in specific topics
