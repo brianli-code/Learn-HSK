@@ -4,16 +4,20 @@
     "description": "HSK 3 Flashcards & Quiz",
     "main": "main.js",
     "scripts": {
+        "build": "tsc",
         "start": "electron .",
         "dist": "electron-builder",
         "build:css": "npx @tailwindcss/cli -i ./renderer/style.css -o ./renderer/output.css --watch"
     },
     "devDependencies": {
+        "@types/node": "^22.15.21",
         "autoprefixer": "^10.4.21",
         "electron": "^36.2.1",
         "electron-builder": "^26.0.12",
         "postcss": "^8.5.3",
-        "tailwindcss": "^4.1.7"
+        "tailwindcss": "^4.1.7",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.8.3"
     },
     "dependencies": {
         "@google-cloud/text-to-speech": "^6.0.1",

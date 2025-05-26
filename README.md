@@ -41,7 +41,7 @@ This is a flashcard and quiz application designed to help users learn vocabulary
 - [x] add keyboard controls to quiz mode (1 to 4)
 - [x] stopwatch in quiz mode
 - [x] add tailwind
-- [] typescript refactor
+- [x] typescript refactor
 - [] shadcn, react, next.js refactor
 - [ ] search bar for flashcards
 - [ ] add AI integration to flashcards and quizzes
