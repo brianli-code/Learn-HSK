@@ -5,15 +5,20 @@
     "main": "main.js",
     "scripts": {
         "start": "electron .",
-        "dist": "electron-builder"
+        "dist": "electron-builder",
+        "build:css": "npx @tailwindcss/cli -i ./renderer/style.css -o ./renderer/output.css --watch"
     },
     "devDependencies": {
+        "autoprefixer": "^10.4.21",
         "electron": "^36.2.1",
-        "electron-builder": "^26.0.12"
+        "electron-builder": "^26.0.12",
+        "postcss": "^8.5.3",
+        "tailwindcss": "^4.1.7"
     },
     "dependencies": {
         "@google-cloud/text-to-speech": "^6.0.1",
         "@google-cloud/translate": "^9.0.1",
+        "@shadcn/ui": "^0.0.4",
         "formdata-polyfill": "^4.0.10",
         "node-fetch": "^2.7.0"
     },

@@ -4,6 +4,26 @@ let score = 0
 let totalQuestions = 0
 let currentQuizKeyHandler = null
 let currentHSK = 3
+let stopwatchInterval = null;
+let startTime = null;
+
+function updateStopwatch() {
+  const elapsed = Math.floor((Date.now() - startTime) / 1000);
+  document.getElementById('stopwatch').textContent = `Time: ${elapsed}s`;
+}
+
+function startStopwatch() {
+  startTime = Date.now();
+  updateStopwatch();
+  stopwatchInterval = setInterval(updateStopwatch, 1000);
+}
+
+function stopStopwatch() {
+  if (stopwatchInterval) {
+    clearInterval(stopwatchInterval);
+    stopwatchInterval = null;
+  }
+}
 
 async function loadHSKData() {
   const resp = await fetch(`./vocab/hsk${currentHSK}.json`)
@@ -14,21 +34,33 @@ async function loadHSKData() {
 
 function toggleHSK() {
   currentHSK = currentHSK === 3 ? 4 : 3;
-  document.getElementById('change-hsk-btn').textContent = `Switch to HSK ${currentHSK}`;
+  document.getElementById('change-hsk-btn').textContent = `Change to HSK ${currentHSK}`;
   loadHSKData().then(data => {
     hskData = data;
     console.log(`HSK data loaded for level ${currentHSK}`);
   });
 }
 
-function applyTheme(theme) {
-  document.documentElement.classList.toggle('dark', theme === 'dark');
-  document.getElementById('theme-toggle').textContent = theme === 'dark' ? 'Light Mode' : 'Dark Mode';
+function initializeTheme() {
+  const savedTheme = localStorage.getItem('theme');
+  const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const theme = savedTheme || (systemPrefersDark ? 'dark' : 'light');
+  applyTheme(theme);
 }
 
-/** Flip theme and persist choice */
+function applyTheme(theme) {
+  if (theme === 'dark') {
+    document.documentElement.classList.add('dark');
+    document.getElementById('theme-toggle').textContent = 'Light Mode';
+  } else {
+    document.documentElement.classList.remove('dark');
+    document.getElementById('theme-toggle').textContent = 'Dark Mode';
+  }
+}
+
 function toggleTheme() {
-  const nextTheme = document.documentElement.classList.contains('dark') ? 'light' : 'dark';
+  const isDark = document.documentElement.classList.contains('dark');
+  const nextTheme = isDark ? 'light' : 'dark';
   applyTheme(nextTheme);
   localStorage.setItem('theme', nextTheme);
 }
@@ -39,6 +71,10 @@ function updateScore() {
 }
 
 function startFlashcards() {
+  if (stopwatchInterval) {
+    document.getElementById('stopwatch').style.display = 'none';
+  }
+
   document.getElementById('score').textContent = ''
   currentIndex = 0
   const app = document.getElementById('app')
@@ -50,23 +86,28 @@ function startFlashcards() {
     card.textContent = item.hanzi
     card.onclick = () => {
       card.innerHTML = `
-        ${item.hanzi}<br>
+      <div>
+        <div class="">
+          ${item.hanzi}
+        </div>
 
         <div class="definition-row">
-          <span>Mandarin: ${item.pinyin} – ${item.english}</span>
+          <span class="translation">Mandarin:<br>${item.pinyin}<br>${item.english}<br></span>
           <button
             class="audio-btn"
             onclick="event.stopPropagation(); playAudio(${currentHSK}, '${item.hanzi}')"
           >🔊</button>
         </div>
+        <br>
 
         <div class="definition-row">
-          <span>Cantonese: ${item.cantonese.hanzi} (${item.cantonese.jyutping})</span>
+          <span class="translation">Cantonese:<br>${item.cantonese.hanzi}<br>${item.cantonese.jyutping}<br></span>
           <button
             class="audio-btn"
             onclick="event.stopPropagation(); playAudio(${currentHSK}, '${item.cantonese.hanzi}')"
           >🔊</button>
         </div>
+      </div>
       `
       card.onclick = () => {
         currentIndex = (currentIndex + 1) % hskData.length
@@ -75,11 +116,16 @@ function startFlashcards() {
     }
   }
 
-  showCard()
+  showCard();
+
+  document.getElementById('change-hsk-btn').addEventListener('click', showCard);
 }
 
 function startQuiz() {
-  // 💡 If we left an old handler around, remove it
+  document.getElementById('stopwatch').style.display = 'block';
+  startStopwatch();
+
+  // if we left an old handler around, remove it
   if (currentQuizKeyHandler) {
     document.removeEventListener('keydown', currentQuizKeyHandler)
     currentQuizKeyHandler = null
@@ -102,7 +148,7 @@ function startQuiz() {
   app.innerHTML = `
     <div id="quiz">
       <div class="definition-row">
-        <span>${item.hanzi} – ${item.pinyin}</span>
+        <span class="translation">Mandarin: ${item.hanzi} (${item.pinyin})</span>
         <button
           class="audio-btn"
           onclick="event.stopPropagation(); playAudio(${currentHSK}, '${item.hanzi}')"
@@ -110,7 +156,7 @@ function startQuiz() {
       </div>
 
       <div class="definition-row">
-        <span>Cantonese: ${item.cantonese.hanzi} (${item.cantonese.jyutping})</span>
+        <span class="translation">Cantonese: ${item.cantonese.hanzi} (${item.cantonese.jyutping})</span>
         <button
           class="audio-btn"
           onclick="event.stopPropagation(); playAudio(${currentHSK}, '${item.cantonese.hanzi}')"
@@ -140,10 +186,13 @@ function startQuiz() {
     }
   }
   document.addEventListener('keydown', currentQuizKeyHandler)
+  document.getElementById('change-hsk-btn').addEventListener('click', startQuiz);
 }
 
 function checkAnswer(selected, correct) {
-  // 💡 remove keyboard handler if we never used it
+  stopStopwatch();
+
+  // remove keyboard handler if we never used it
   if (currentQuizKeyHandler) {
     document.removeEventListener('keydown', currentQuizKeyHandler)
     currentQuizKeyHandler = null
@@ -222,7 +271,7 @@ async function loadMotivation() {
 
   // render banner
   const banner = document.getElementById('motivation-banner');
-  // <strong>“${quote}”</strong> 
+  // <strong>"${quote}"</strong> 
   banner.innerHTML = `
     <span id="close-banner" class="close-btn">✖</span>
     <div class="streak">🔥 Current streak: ${streak} day${streak > 1 ? 's' : ''}</div>
@@ -235,15 +284,10 @@ async function loadMotivation() {
 }
 
 document.addEventListener('DOMContentLoaded', async () => {
-  // apply saved theme
-  const saved = localStorage.getItem('theme') || 'light';
-  applyTheme(saved);
+  initializeTheme();
+  document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
 
   loadMotivation();
-
-  // wire theme-toggle button
-  document.getElementById('theme-toggle')
-          .addEventListener('click', toggleTheme);
 
   // load data & wire up quiz/flashcard
   hskData = await loadHSKData();
