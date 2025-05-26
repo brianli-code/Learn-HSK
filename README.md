@@ -39,5 +39,11 @@ This is a flashcard and quiz application designed to help users learn vocabulary
 - [x] expand vocab to HSK 4
 - [x] dark mode
 - [x] add keyboard controls to quiz mode (1 to 4)
-- [ ] stopwatch in quiz mode
+- [x] stopwatch in quiz mode
+- [x] tailwind and shadcn refactor
+- [ ] search bar for flashcards
 - [ ] add AI integration to flashcards and quizzes
+- [ ] media integration to express interest in specific topics
+    - music
+    - tv shows
+    - etc.
